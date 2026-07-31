@@ -1,0 +1,161 @@
+%% ============================================================
+%% (a) App 冷启动 -> 恢复 IndexedDB 状态 -> 路由渲染 (P0-18)
+%% ============================================================
+sequenceDiagram
+    participant U as 用户
+    participant B as Browser
+    participant M as main.tsx
+    participant SW as ServiceWorker
+    participant App as App.tsx
+    participant P as persist中间件
+    participant IDB as IndexedDB
+    participant R as HashRouter
+    participant H as HomePage
+
+    U->>B: 打开 App / 点击桌面图标
+    B->>SW: 命中预缓存 App Shell（离线亦可）
+    SW-->>B: 返回 index.html + JS chunk
+    B->>M: 执行 main.tsx
+    M->>SW: registerSW({immediate:true})
+    M->>App: createRoot().render(<App/>)
+
+    App->>P: 4 个 store 初始化
+    par 并行 rehydrate
+        P->>IDB: getItem('app-store')
+        IDB-->>P: {state, version}
+        P->>IDB: getItem('progress-store')
+        IDB-->>P: {state, version}
+        P->>IDB: getItem('music-store')
+        IDB-->>P: {state, version}
+        P->>IDB: getItem('reading-pref-store')
+        IDB-->>P: {state, version}
+    end
+    P->>P: 校验 schemaVersion，不符则走 migrate
+    P-->>App: onRehydrateStorage → setHasHydrated(true)
+
+    App->>App: 4 个信号全部 true？
+    alt 未完成
+        App-->>U: 渲染 SplashScreen（纸感米白，无闪白）
+    else 已完成
+        App->>R: 渲染 RouterProvider(HashRouter)
+        R->>H: 匹配 '/' → HomePage
+        H->>H: 读 useAppStore.resume
+        alt resume 存在
+            H-->>U: 「上次学到：高中 · 阅读 L3」+ [继续学习]
+        else 首次使用
+            H-->>U: 「选择难度开始」
+        end
+        H->>H: useCheckIn() 计算连续天数
+        H-->>U: 打卡进度环 + 六模块卡（Framer 入场 ≤300ms）
+        App->>App: 读 useMusicStore.onboarded
+        alt onboarded === false
+            App-->>U: 弹 MusicOnboardingModal（等待用户手势）
+        end
+    end
+
+
+%% ============================================================
+%% (b) 跟读双模式能力检测与评分 (P0-11/12/13)
+%% ============================================================
+sequenceDiagram
+    participant U as 用户
+    participant SP as SpeakingPage
+    participant Cap as capability.ts
+    participant TTS as tts.ts
+    participant Rec as recorder.ts
+    participant SR as speechScore.ts
+    participant WF as WaveformCanvas
+    participant PS as ProgressStore
+    participant AS as AppStore
+
+    U->>SP: 进入 /learn/senior/speaking
+    SP->>Cap: isSpeechRecognitionAvailable() && !isIOSSafari()
+    Cap-->>SP: true → 模式A ／ false → 模式B
+    SP-->>U: 渲染对应 UI（模式B 隐藏自动分、显示打星）
+
+    U->>SP: 点击 [TTS示范]
+    SP->>TTS: speak(sentence.text, rate)
+    TTS-->>U: 播放示范音（可循环）
+
+    U->>SP: 点击 [录音]
+    SP->>Rec: start()
+    Rec->>Rec: getUserMedia + MediaRecorder + AnalyserNode
+    alt 权限被拒 / 无 MediaRecorder
+        Rec-->>SP: throw
+        SP-->>U: Toast「麦克风不可用，可仅听示范音」（不阻断）
+    else 正常
+        Rec-->>SP: recording
+        loop rAF
+            Rec-->>WF: getByteTimeDomainData()
+            WF-->>U: 实时波形（P1-06）
+        end
+    end
+
+    alt 模式A：Web Speech 自动打分
+        SP->>SR: recognizeOnce() 与录音同时启动
+        SR-->>SP: recognizedText
+    end
+
+    U->>SP: 点击 [停止]
+    SP->>Rec: stop()
+    Rec-->>SP: Blob → objectURL（仅内存）
+    SP-->>U: [A 原音] [B 我的] 可 AB 对比
+
+    alt 模式A
+        SP->>SR: similarity(normalize(recognized), normalize(target))
+        SR-->>SP: 0-1 → score = round(sim*100)
+        SP-->>U: 识别文本 + 分数（暖陶色仅在 ≥80 时用）
+        SP->>PS: addSpeakingScore({mode:'auto', recognizedText, similarity, score})
+    else 模式B
+        SP-->>U: StarRating 供自评
+        U->>SP: 打星 1-5
+        SP->>PS: addSpeakingScore({mode:'manual', stars})
+    end
+
+    SP->>AS: recordAction({level, module:'speaking', route, itemId, label})
+    AS->>AS: 更新 resume + 打卡判定（当日首个动作 → streak+1）
+
+
+%% ============================================================
+%% (c) 写作本地批改流程 (P0-10，无网络无 key)
+%% ============================================================
+sequenceDiagram
+    participant U as 用户
+    participant WP as WritingPage
+    participant ED as WritingEditor
+    participant PS as ProgressStore
+    participant WC as writingChecker.ts
+    participant CP as CorrectionPanel
+    participant ME as ModelEssayCompare
+    participant AS as AppStore
+
+    U->>WP: 进入 /learn/college/writing
+    WP->>PS: 读 drafts[promptId]
+    PS-->>ED: 回填草稿（P1-05）
+    loop 输入中
+        U->>ED: 键入
+        ED->>PS: saveDraft() —— 800ms 防抖
+        PS->>PS: persist 写 IndexedDB（再叠 300ms 防抖）
+    end
+
+    U->>WP: 点击 [本地批改]
+    WP->>WC: check(text, prompt)
+    WC->>WC: 1. 分词计数 wordCount
+    WC->>WC: 2. 空行切段 → paragraphCount + 首尾段结构判定
+    WC->>WC: 3. 比对 requiredConnectives → used / missing
+    WC->>WC: 4. 逐条 AdvancedPattern.regex 匹配 → matched/hint
+    WC->>WC: 5. 加权计 ruleScore(0-100)
+    WC-->>WP: WritingReport
+    WP->>PS: saveWritingReport(report)
+    WP->>CP: 渲染报告
+    CP-->>U: 字数✓ / 段落✓ / 缺 however,thus / 可加强调句
+
+    U->>CP: 点击「范文逐段对照」
+    CP->>ME: prompt.modelEssay
+    alt modelEssay 存在（P1 内容到位后）
+        ME-->>U: 逐段对照 + 段落要点
+    else 首版缺省
+        ME-->>U: EmptyState「范文即将上线，可先参考结构与句式提示」
+    end
+
+    WP->>AS: recordAction({level, module:'writing', ...})

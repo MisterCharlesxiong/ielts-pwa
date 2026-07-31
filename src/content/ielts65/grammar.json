@@ -1,0 +1,585 @@
+{
+  "schemaVersion": 1,
+  "level": "ielts65",
+  "module": "grammar",
+  "title": "雅思 6.0-6.5 · 语法专题 8 讲",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "ielts65-g1",
+      "title": "介词 + 关系代词的定语从句",
+      "ruleText": "结构 **介词 + which / whom**，多见于正式书面语。\n介词的选择取决于从句中动词或名词的固定搭配，\n如 the extent **to which**、the rate **at which**、the way **in which**。",
+      "examples": [
+        {
+          "en": "The extent to which media shapes opinion is debated.",
+          "cn": "媒体影响舆论的程度仍有争议。"
+        },
+        {
+          "en": "The speed at which glaciers retreat has increased.",
+          "cn": "冰川退缩的速度加快了。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts65-g1-e1",
+          "stem": "This is the framework ______ the analysis is based.",
+          "points": 1,
+          "explanation": "be based on → on which。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "on which"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "in that"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts65-g1-e2",
+          "stem": "She described the manner ______ the interviews were conducted.",
+          "points": 1,
+          "explanation": "in the manner → in which。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "in which"
+            },
+            {
+              "key": "C",
+              "text": "of which"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g1-e3",
+          "stem": "判断：“the reason of which” 是描述原因时的标准搭配。",
+          "points": 1,
+          "explanation": "应为 the reason for which 或直接用 why。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": "ielts65-g2",
+      "title": "让步状语从句的多种表达",
+      "ruleText": "除 although / though 外，可用 **even if / even though / while / whereas**，\n以及倒装让步 **Adjective + as + 主语 + be**。\nDespite / In spite of 后接**名词或动名词**，不接从句。",
+      "examples": [
+        {
+          "en": "Difficult as the task was, the team completed it.",
+          "cn": "尽管任务艰巨，团队还是完成了。"
+        },
+        {
+          "en": "Despite the delay, the outcome remained positive.",
+          "cn": "尽管有延误，结果依然积极。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts65-g2-e1",
+          "stem": "______ the evidence is limited, the argument is persuasive.",
+          "points": 1,
+          "explanation": "后接完整从句，只能用 Although。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Despite"
+            },
+            {
+              "key": "B",
+              "text": "Although"
+            },
+            {
+              "key": "C",
+              "text": "In spite of"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g2-e2",
+          "stem": "______ as it seems, the method works reliably.",
+          "points": 1,
+          "explanation": "倒装让步结构：形容词 + as + 主语 + 系动词。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Simple"
+            },
+            {
+              "key": "B",
+              "text": "Simply"
+            },
+            {
+              "key": "C",
+              "text": "A simple"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts65-g2-e3",
+          "stem": "判断：“Despite of the rain, the event went ahead.” 语法正确。",
+          "points": 1,
+          "explanation": "despite 后不加 of，应为 Despite the rain 或 In spite of the rain。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": "ielts65-g3",
+      "title": "结果与目的状语",
+      "ruleText": "结果：**so + 形容词 + that**、**such + 名词短语 + that**、so as to（否定用 so as not to）。\n目的：**in order that + 从句**、**in order to / so as to + 动词原形**。\n注意 so as to 不能置于句首。",
+      "examples": [
+        {
+          "en": "The instructions were so clear that no one asked questions.",
+          "cn": "说明极其清楚，没人提问。"
+        },
+        {
+          "en": "In order to reduce waste, the café stopped using plastic cups.",
+          "cn": "为减少浪费，咖啡馆停用塑料杯。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts65-g3-e1",
+          "stem": "It was ______ a convincing study that policy changed within a year.",
+          "points": 1,
+          "explanation": "such + a/an + 形容词 + 名词 + that。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "so"
+            },
+            {
+              "key": "B",
+              "text": "such"
+            },
+            {
+              "key": "C",
+              "text": "very"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g3-e2",
+          "stem": "______ avoid misunderstanding, define your terms early.",
+          "points": 1,
+          "explanation": "so as to 不能置于句首，故选 In order to。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "So as to"
+            },
+            {
+              "key": "B",
+              "text": "In order to"
+            },
+            {
+              "key": "C",
+              "text": "For to"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g3-e3",
+          "stem": "判断：so…that 与 such…that 中的 that 引导的是结果状语从句。",
+          "points": 1,
+          "explanation": "两者均为结果状语从句的标志结构。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "ielts65-g4",
+      "title": "名词化与学术语域",
+      "ruleText": "名词化把动词或形容词转为名词（analyse→analysis、able→ability），\n可提高信息密度与客观性，但**过度使用**会造成句子笨重、可读性下降。\n雅思写作建议：关键论点用动词，背景信息可名词化。",
+      "examples": [
+        {
+          "en": "The introduction of the scheme reduced congestion.",
+          "cn": "该方案的实施减少了拥堵。"
+        },
+        {
+          "en": "A rapid decline in bird populations followed.",
+          "cn": "随后鸟类数量迅速下降。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts65-g4-e1",
+          "stem": "把 “They decided quickly.” 名词化后最自然的一项是：",
+          "points": 1,
+          "explanation": "decide → decision，副词 quickly → 形容词 quick。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their quick decision"
+            },
+            {
+              "key": "B",
+              "text": "Their decide quickly"
+            },
+            {
+              "key": "C",
+              "text": "The deciding of them"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts65-g4-e2",
+          "stem": "下列哪一句名词化过度、可读性最差？",
+          "points": 1,
+          "explanation": "B 层层名词化，主语冗长，动词被弱化为 took place。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "The council improved the service."
+            },
+            {
+              "key": "B",
+              "text": "An improvement in the provision of the service by the council took place."
+            },
+            {
+              "key": "C",
+              "text": "The council made improvements to the service."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g4-e3",
+          "stem": "判断：名词化越多，雅思写作词汇分越高。",
+          "points": 1,
+          "explanation": "评分关注准确与自然，过度名词化反而损害连贯与可读性。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": "ielts65-g5",
+      "title": "被动语态与信息结构",
+      "ruleText": "英语句子倾向**已知信息在前、新信息在后**。\n被动语态常用于把已知信息提到主语位置，从而衔接上下文，\n而非单纯为了“显得正式”。",
+      "examples": [
+        {
+          "en": "These findings were confirmed by a later study.",
+          "cn": "这些发现被后来的研究证实。"
+        },
+        {
+          "en": "Three factors are considered below.",
+          "cn": "下文将讨论三个因素。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts65-g5-e1",
+          "stem": "上文刚讨论过 the proposal，下句衔接最好的写法是：",
+          "points": 1,
+          "explanation": "已知信息 the proposal 置于主语位置，衔接最自然。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "The committee rejected the proposal."
+            },
+            {
+              "key": "B",
+              "text": "The proposal was rejected by the committee."
+            },
+            {
+              "key": "C",
+              "text": "There was a rejection of the proposal."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g5-e2",
+          "stem": "学术写作中使用被动的主要理由是：",
+          "points": 1,
+          "explanation": "被动的核心功能是信息结构调整。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "显得更长"
+            },
+            {
+              "key": "B",
+              "text": "调整信息重心并弱化施动者"
+            },
+            {
+              "key": "C",
+              "text": "避免使用动词"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g5-e3",
+          "stem": "判断：全篇使用被动语态可以提升语法多样性得分。",
+          "points": 1,
+          "explanation": "单一句式会降低 Grammatical Range 分数，应主被动交替。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": "ielts65-g6",
+      "title": "条件句三型与混合条件",
+      "ruleText": "真实条件：if + 现在时，主句 will；\n非真实（现在）：if + 过去时，主句 would；\n非真实（过去）：if + had done，主句 would have done。\n**混合条件**：过去的条件 + 现在的结果。",
+      "examples": [
+        {
+          "en": "If they had invested earlier, they would be profitable now.",
+          "cn": "如果他们早些投资，现在就盈利了。"
+        },
+        {
+          "en": "If the data were reliable, the conclusion would hold.",
+          "cn": "如果数据可靠，结论就能成立。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts65-g6-e1",
+          "stem": "If the city had built the line in 2010, traffic ______ far lighter today.",
+          "points": 1,
+          "explanation": "混合条件：过去条件 + 现在结果，主句用 would + 动词原形。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "would be"
+            },
+            {
+              "key": "B",
+              "text": "would have been"
+            },
+            {
+              "key": "C",
+              "text": "will be"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts65-g6-e2",
+          "stem": "If sea levels ______ rising, coastal cities will face serious risks.",
+          "points": 1,
+          "explanation": "真实条件句，从句用一般现在时。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "keep"
+            },
+            {
+              "key": "B",
+              "text": "kept"
+            },
+            {
+              "key": "C",
+              "text": "had kept"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts65-g6-e3",
+          "stem": "判断：Were it not for the subsidy, the service would close. 是正确的倒装虚拟句。",
+          "points": 1,
+          "explanation": "if 省略后 were 提前，构成正式倒装虚拟条件句。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "ielts65-g7",
+      "title": "同位语从句与信息补充",
+      "ruleText": "同位语从句用 that / whether / 疑问词引导，**解释抽象名词的具体内容**，\n常见先行名词：fact、idea、belief、evidence、possibility、conclusion。\n与定语从句的区别：同位语从句中 that 不作句子成分。",
+      "examples": [
+        {
+          "en": "The evidence that pollution harms health is overwhelming.",
+          "cn": "污染危害健康的证据非常充分。"
+        },
+        {
+          "en": "The question whether the policy works remains open.",
+          "cn": "该政策是否有效仍是未解问题。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts65-g7-e1",
+          "stem": "下列哪句中的 that 引导同位语从句？",
+          "points": 1,
+          "explanation": "B 中 that 从句解释 claim 的内容，不作成分。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "The report that arrived yesterday is detailed."
+            },
+            {
+              "key": "B",
+              "text": "The claim that the method is flawed needs testing."
+            },
+            {
+              "key": "C",
+              "text": "The book that she wrote sold well."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g7-e2",
+          "stem": "The possibility ______ the trend reverses cannot be ruled out.",
+          "points": 1,
+          "explanation": "同位语从句用 that 引导。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g7-e3",
+          "stem": "判断：同位语从句中的引导词在从句中不充当主语或宾语。",
+          "points": 1,
+          "explanation": "这正是它与定语从句最关键的区别。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "ielts65-g8",
+      "title": "模糊限制语（Hedging）",
+      "ruleText": "学术英语避免绝对化。常用手段：情态动词（may / might / could）、\n频度与程度副词（often / largely / to some extent）、\n动词（suggest / indicate / tend to）与句式（It appears that…）。",
+      "examples": [
+        {
+          "en": "The results suggest that early intervention may help.",
+          "cn": "结果表明早期干预可能有帮助。"
+        },
+        {
+          "en": "This factor is, to some extent, beyond individual control.",
+          "cn": "这一因素在某种程度上超出个人控制。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts65-g8-e1",
+          "stem": "选出学术语域最恰当的一句：",
+          "points": 1,
+          "explanation": "B 使用 may 与 in some contexts 做适度限定。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Social media definitely destroys teenagers concentration."
+            },
+            {
+              "key": "B",
+              "text": "Social media may reduce teenagers concentration in some contexts."
+            },
+            {
+              "key": "C",
+              "text": "Everyone knows social media ruins concentration."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts65-g8-e2",
+          "stem": "“The data prove that…” 更严谨的改写是：",
+          "points": 1,
+          "explanation": "prove 语气过强，show / indicate / suggest 更稳妥。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "The data show that…"
+            },
+            {
+              "key": "B",
+              "text": "The data must be that…"
+            },
+            {
+              "key": "C",
+              "text": "The data totally prove that…"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts65-g8-e3",
+          "stem": "判断：过度使用 hedging 也可能使论点显得模糊无力。",
+          "points": 1,
+          "explanation": "限定要适度：既不能绝对化，也不能立场不明。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    }
+  ]
+}

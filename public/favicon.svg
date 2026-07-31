@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="雅思 PWA 苔绿叶片图标">
+  <rect width="64" height="64" rx="14" fill="#FDFBF7"/>
+  <path d="M46 14c2 14-3 24-12 29-6 3-12 3-16 1 1-11 7-19 15-24 4-2.5 8-4.5 13-6z" fill="#6B8E6B"/>
+  <path d="M46 14C34 22 24 32 18 46" stroke="#FDFBF7" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+  <path d="M16 52c2-6 5-11 9-15" stroke="#55755A" stroke-width="3" stroke-linecap="round" fill="none"/>
+</svg>

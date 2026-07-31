@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------ *
+ * 护眼设计 token —— 唯一真源
+ * Tailwind theme.extend.colors 全部引用这里的 CSS 变量。
+ * 全站禁止裸写十六进制色值。
+ * ------------------------------------------------------------------ */
+:root {
+  --bg-paper: #fdfbf7; /* 纸感米白，全局底 */
+  --bg-parchment: #f7f2e8; /* 阅读羊皮纸态 */
+  --bg-night: #1c211e; /* 阅读夜间墨屏 */
+  --text-ink: #2e3330; /* 正文墨灰 */
+  --text-ink-soft: #5a615c; /* 次要文字 */
+  --primary-moss: #6b8e6b; /* 苔绿主色（中低饱和） */
+  --primary-moss-dk: #55755a; /* 苔绿深（按下态） */
+  --primary-moss-lt: #e4ede3; /* 苔绿浅（选中底） */
+  --accent-terra: #c97b5a; /* 暖陶色 —— 仅正反馈 */
+  --line-soft: #e6e1d6; /* 分割线 / 描边 */
+  --lh-read: 1.9; /* 专注阅读行高 */
+  --dur-spring: 280ms; /* 动效上限 ≤300ms */
+}
+
+/* 夜间墨屏态：由 ReadingFocusPage 在根容器上挂 .theme-night */
+.theme-night {
+  --bg-paper: #1c211e;
+  --bg-parchment: #1c211e;
+  --text-ink: #ede8dc;
+  --text-ink-soft: #a8b0a6;
+  --line-soft: #313830;
+  --primary-moss-lt: #2a332a;
+}
+
+/* ------------------------------------------------------------------ *
+ * 全局基础
+ * ------------------------------------------------------------------ */
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html {
+    /* 禁止 iOS 横屏字号自动放大 */
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  html,
+  body,
+  #root {
+    min-height: 100%;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--bg-paper);
+    color: var(--text-ink);
+    font-family: theme('fontFamily.sans');
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* 避免 iOS 橡皮筋滚动露出系统底色 */
+    overscroll-behavior-y: none;
+  }
+
+  button {
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    touch-action: manipulation;
+  }
+
+  input,
+  textarea,
+  select {
+    font: inherit;
+    color: inherit;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--primary-moss);
+    outline-offset: 2px;
+  }
+}
+
+/* ------------------------------------------------------------------ *
+ * 组件级工具类
+ * ------------------------------------------------------------------ */
+@layer components {
+  /* 隐藏滚动条但保留滚动能力 */
+  .no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* 单词卡翻牌所需的 3D 上下文 */
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+  .backface-hidden {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+
+  /* 阅读正文：行高恒定 1.9 */
+  .read-body {
+    line-height: var(--lh-read);
+    letter-spacing: 0.01em;
+  }
+}
+
+/* ------------------------------------------------------------------ *
+ * 减弱动态效果：Framer 由 <MotionConfig reducedMotion="user"> 统一处理，
+ * 这里兜底关掉纯 CSS 过渡与动画。
+ * ------------------------------------------------------------------ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

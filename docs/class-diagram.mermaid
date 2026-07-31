@@ -1,0 +1,160 @@
+classDiagram
+    class ContentPack~T~ {
+        +number schemaVersion
+        +LevelId level
+        +ModuleId module
+        +string title
+        +string generatedAt
+        +T[] items
+    }
+    class Word {
+        +string id
+        +string term
+        +string phonetic
+        +string meaningCn
+        +string example
+    }
+    class GrammarPoint {
+        +string id
+        +string title
+        +string ruleText
+        +Example[] examples
+        +Question[] exercises
+    }
+    class ReadingPassage {
+        +string id
+        +string title
+        +string[] paragraphs
+        +Question[] questions
+        +Glossary[] glossary
+    }
+    class WritingPrompt {
+        +string id
+        +string prompt
+        +number minWords
+        +string[] suggestedStructure
+        +string[] requiredConnectives
+        +AdvancedPattern[] advancedPatterns
+        +ModelEssay modelEssay
+    }
+    class FollowReadSentence {
+        +string id
+        +string text
+        +string ipa
+    }
+    class Quiz {
+        +string id
+        +string title
+        +number durationSec
+        +QuizSection[] sections
+    }
+    class Question {
+        +string id
+        +QuestionType type
+        +string stem
+        +QuestionOption[] options
+        +string answer
+        +string explanation
+    }
+
+    ContentPack <|.. Word : items
+    ContentPack <|.. GrammarPoint : items
+    ContentPack <|.. ReadingPassage : items
+    ContentPack <|.. WritingPrompt : items
+    ContentPack <|.. FollowReadSentence : items
+    ContentPack <|.. Quiz : items
+    GrammarPoint "1" *-- "n" Question : exercises
+    ReadingPassage "1" *-- "n" Question : questions
+    Quiz "1" *-- "n" QuizSection
+    QuizSection "1" *-- "n" Question
+    WritingPrompt "1" o-- "0..1" ModelEssay
+
+    class AppStore {
+        +number schemaVersion
+        +LevelId currentLevel
+        +ResumePointer resume
+        +CheckInState checkIn
+        +setLevel()
+        +recordAction()
+    }
+    class ProgressStore {
+        +Record~LevelId,LevelProgress~ byLevel
+        +setWordState()
+        +recordAnswer()
+        +submitQuiz()
+        +getModuleCompletion()
+    }
+    class MusicStore {
+        +boolean enabled
+        +MusicTrack track
+        +number volume
+        +boolean onboarded
+    }
+    class ReadingPrefStore {
+        +string theme
+        +number fontSize
+        +boolean focusMode
+    }
+    class LevelProgress {
+        +WordsProgress words
+        +GrammarProgress grammar
+        +ReadingProgress reading
+        +WritingProgress writing
+        +SpeakingProgress speaking
+        +QuizProgress quiz
+    }
+    ProgressStore "1" *-- "6" LevelProgress
+
+    class IdbStorage {
+        +getItem(name)
+        +setItem(name, value)
+        +removeItem(name)
+    }
+    AppStore ..> IdbStorage : persist
+    ProgressStore ..> IdbStorage : persist
+    MusicStore ..> IdbStorage : persist
+    ReadingPrefStore ..> IdbStorage : persist
+
+    class Capability {
+        +isSpeechRecognitionAvailable()
+        +isIOSSafari()
+        +isTTSAvailable()
+        +isMediaRecorderAvailable()
+    }
+    class TTSService {
+        +speak(text, rate)
+        +cancel()
+    }
+    class RecorderService {
+        +start()
+        +stop()
+        +getAnalyser()
+    }
+    class SpeechScorer {
+        +recognizeOnce()
+        +similarity(a, b)
+    }
+    class AudioEngine {
+        +init()
+        +play(track)
+        +stop()
+        +setVolume(v)
+    }
+    class WritingChecker {
+        +check(text, prompt) WritingReport
+    }
+    class ContentLoader {
+        +load(level, module)
+        +importPack(json)
+    }
+
+    SpeakingPage ..> Capability
+    SpeakingPage ..> TTSService
+    SpeakingPage ..> RecorderService
+    SpeakingPage ..> SpeechScorer
+    SpeakingPage ..> ProgressStore
+    WritingPage ..> WritingChecker
+    WritingPage ..> ProgressStore
+    useBackgroundMusic ..> AudioEngine
+    useBackgroundMusic ..> MusicStore
+    useContent ..> ContentLoader

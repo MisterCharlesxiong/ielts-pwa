@@ -1,0 +1,1209 @@
+{
+  "schemaVersion": 1,
+  "level": "ielts65",
+  "module": "words",
+  "title": "雅思 6.0-6.5 · 核心词汇 100",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "ielts65-w1",
+      "term": "alleviate",
+      "phonetic": "/əˈliːvieɪt/",
+      "pos": "v.",
+      "meaningCn": "减轻，缓解",
+      "example": "Subsidies can alleviate rural poverty.",
+      "exampleCn": "补贴能够缓解农村贫困。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w2",
+      "term": "ambivalent",
+      "phonetic": "/æmˈbɪvələnt/",
+      "pos": "adj.",
+      "meaningCn": "矛盾的",
+      "example": "Voters remain ambivalent about the reform.",
+      "exampleCn": "选民对这项改革仍持矛盾态度。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w3",
+      "term": "amplify",
+      "phonetic": "/ˈæmplɪfaɪ/",
+      "pos": "v.",
+      "meaningCn": "放大，加强",
+      "example": "Social media amplifies extreme opinions.",
+      "exampleCn": "社交媒体放大了极端观点。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w4",
+      "term": "appraise",
+      "phonetic": "/əˈpreɪz/",
+      "pos": "v.",
+      "meaningCn": "评估",
+      "example": "Managers appraise staff twice a year.",
+      "exampleCn": "管理者每年评估员工两次。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w5",
+      "term": "ascertain",
+      "phonetic": "/ˌæsəˈteɪn/",
+      "pos": "v.",
+      "meaningCn": "查明",
+      "example": "Researchers could not ascertain the cause.",
+      "exampleCn": "研究者未能查明原因。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w6",
+      "term": "attribute",
+      "phonetic": "/əˈtrɪbjuːt/",
+      "pos": "v.",
+      "meaningCn": "归因于",
+      "example": "Experts attribute the rise to warmer winters.",
+      "exampleCn": "专家将上升归因于更暖的冬天。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w7",
+      "term": "augment",
+      "phonetic": "/ɔːɡˈment/",
+      "pos": "v.",
+      "meaningCn": "增加，增强",
+      "example": "Part-time work augments student income.",
+      "exampleCn": "兼职增加了学生收入。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w8",
+      "term": "authenticity",
+      "phonetic": "/ˌɔːθenˈtɪsəti/",
+      "pos": "n.",
+      "meaningCn": "真实性",
+      "example": "Readers question the authenticity of the report.",
+      "exampleCn": "读者质疑该报告的真实性。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w9",
+      "term": "beneficiary",
+      "phonetic": "/ˌbenɪˈfɪʃəri/",
+      "pos": "n.",
+      "meaningCn": "受益者",
+      "example": "Small farmers are the main beneficiaries.",
+      "exampleCn": "小农户是主要受益者。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w10",
+      "term": "bolster",
+      "phonetic": "/ˈbəʊlstə/",
+      "pos": "v.",
+      "meaningCn": "支撑，加强",
+      "example": "New data bolster the original claim.",
+      "exampleCn": "新数据支持了最初的论断。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w11",
+      "term": "catalyst",
+      "phonetic": "/ˈkætəlɪst/",
+      "pos": "n.",
+      "meaningCn": "催化剂，促因",
+      "example": "The crisis acted as a catalyst for change.",
+      "exampleCn": "这场危机成为变革的催化剂。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w12",
+      "term": "cognitive",
+      "phonetic": "/ˈkɒɡnətɪv/",
+      "pos": "adj.",
+      "meaningCn": "认知的",
+      "example": "Sleep loss impairs cognitive performance.",
+      "exampleCn": "睡眠不足损害认知表现。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w13",
+      "term": "commence",
+      "phonetic": "/kəˈmens/",
+      "pos": "v.",
+      "meaningCn": "开始",
+      "example": "Construction will commence in April.",
+      "exampleCn": "施工将于四月开始。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w14",
+      "term": "compelling",
+      "phonetic": "/kəmˈpelɪŋ/",
+      "pos": "adj.",
+      "meaningCn": "令人信服的",
+      "example": "She presented a compelling argument.",
+      "exampleCn": "她提出了令人信服的论点。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w15",
+      "term": "compliance",
+      "phonetic": "/kəmˈplaɪəns/",
+      "pos": "n.",
+      "meaningCn": "合规，遵守",
+      "example": "Compliance with safety rules is mandatory.",
+      "exampleCn": "遵守安全规定是强制性的。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w16",
+      "term": "comprehend",
+      "phonetic": "/ˌkɒmprɪˈhend/",
+      "pos": "v.",
+      "meaningCn": "理解",
+      "example": "Few readers fully comprehend the statistics.",
+      "exampleCn": "很少有读者完全理解这些统计。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w17",
+      "term": "conducive",
+      "phonetic": "/kənˈdjuːsɪv/",
+      "pos": "adj.",
+      "meaningCn": "有助于…的",
+      "example": "Open plan offices are not conducive to focus.",
+      "exampleCn": "开放式办公室不利于专注。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w18",
+      "term": "connotation",
+      "phonetic": "/ˌkɒnəˈteɪʃn/",
+      "pos": "n.",
+      "meaningCn": "隐含意义",
+      "example": "The word carries a negative connotation.",
+      "exampleCn": "这个词带有负面含义。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w19",
+      "term": "consolidate",
+      "phonetic": "/kənˈsɒlɪdeɪt/",
+      "pos": "v.",
+      "meaningCn": "巩固；合并",
+      "example": "Review consolidates what you have learnt.",
+      "exampleCn": "复习巩固你已学的内容。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w20",
+      "term": "constrain",
+      "phonetic": "/kənˈstreɪn/",
+      "pos": "v.",
+      "meaningCn": "限制",
+      "example": "Limited funding constrains the project.",
+      "exampleCn": "有限的资金限制了这个项目。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w21",
+      "term": "contingent",
+      "phonetic": "/kənˈtɪndʒənt/",
+      "pos": "adj.",
+      "meaningCn": "视情况而定的",
+      "example": "Payment is contingent on delivery.",
+      "exampleCn": "付款视交付情况而定。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w22",
+      "term": "converge",
+      "phonetic": "/kənˈvɜːdʒ/",
+      "pos": "v.",
+      "meaningCn": "汇聚",
+      "example": "The two theories converge on one point.",
+      "exampleCn": "两种理论在一点上趋于一致。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w23",
+      "term": "culminate",
+      "phonetic": "/ˈkʌlmɪneɪt/",
+      "pos": "v.",
+      "meaningCn": "以…告终",
+      "example": "The course culminates in a group project.",
+      "exampleCn": "课程以小组项目收尾。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w24",
+      "term": "curtail",
+      "phonetic": "/kɜːˈteɪl/",
+      "pos": "v.",
+      "meaningCn": "削减",
+      "example": "The city curtailed night bus services.",
+      "exampleCn": "该市削减了夜间公交服务。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w25",
+      "term": "decisive",
+      "phonetic": "/dɪˈsaɪsɪv/",
+      "pos": "adj.",
+      "meaningCn": "决定性的",
+      "example": "Timing proved decisive in the debate.",
+      "exampleCn": "时机在辩论中起了决定作用。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w26",
+      "term": "deficiency",
+      "phonetic": "/dɪˈfɪʃnsi/",
+      "pos": "n.",
+      "meaningCn": "缺乏",
+      "example": "Vitamin deficiency causes tiredness.",
+      "exampleCn": "维生素缺乏导致疲劳。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w27",
+      "term": "deliberate",
+      "phonetic": "/dɪˈlɪbərət/",
+      "pos": "adj.",
+      "meaningCn": "故意的；深思熟虑的",
+      "example": "The omission looks deliberate.",
+      "exampleCn": "这一遗漏看起来是故意的。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w28",
+      "term": "deteriorate",
+      "phonetic": "/dɪˈtɪəriəreɪt/",
+      "pos": "v.",
+      "meaningCn": "恶化",
+      "example": "Air quality deteriorated after the fire.",
+      "exampleCn": "火灾后空气质量恶化。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w29",
+      "term": "detrimental",
+      "phonetic": "/ˌdetrɪˈmentl/",
+      "pos": "adj.",
+      "meaningCn": "有害的",
+      "example": "Excessive screen time is detrimental to sleep.",
+      "exampleCn": "过度使用屏幕有害睡眠。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w30",
+      "term": "discrepancy",
+      "phonetic": "/dɪsˈkrepənsi/",
+      "pos": "n.",
+      "meaningCn": "差异，不符",
+      "example": "There is a discrepancy between the two records.",
+      "exampleCn": "两份记录之间存在不符。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w31",
+      "term": "disparity",
+      "phonetic": "/dɪˈspærəti/",
+      "pos": "n.",
+      "meaningCn": "悬殊差异",
+      "example": "Regional disparity remains substantial.",
+      "exampleCn": "地区差距依然显著。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w32",
+      "term": "disseminate",
+      "phonetic": "/dɪˈsemɪneɪt/",
+      "pos": "v.",
+      "meaningCn": "传播",
+      "example": "Universities disseminate research findings freely.",
+      "exampleCn": "大学免费传播研究成果。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w33",
+      "term": "distinctive",
+      "phonetic": "/dɪˈstɪŋktɪv/",
+      "pos": "adj.",
+      "meaningCn": "独特的",
+      "example": "The building has a distinctive roof.",
+      "exampleCn": "这座建筑有独特的屋顶。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w34",
+      "term": "divergent",
+      "phonetic": "/daɪˈvɜːdʒənt/",
+      "pos": "adj.",
+      "meaningCn": "分歧的",
+      "example": "Experts hold divergent views on this.",
+      "exampleCn": "专家对此持不同看法。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w35",
+      "term": "elicit",
+      "phonetic": "/iˈlɪsɪt/",
+      "pos": "v.",
+      "meaningCn": "引出，激起",
+      "example": "Open questions elicit longer answers.",
+      "exampleCn": "开放式问题能引出更长的回答。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w36",
+      "term": "emulate",
+      "phonetic": "/ˈemjuleɪt/",
+      "pos": "v.",
+      "meaningCn": "效仿",
+      "example": "Other cities hope to emulate the model.",
+      "exampleCn": "其他城市希望效仿这一模式。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w37",
+      "term": "endeavour",
+      "phonetic": "/ɪnˈdevə/",
+      "pos": "n./v.",
+      "meaningCn": "努力",
+      "example": "Despite our best endeavour, costs rose.",
+      "exampleCn": "尽管我们尽了最大努力，成本仍上涨。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w38",
+      "term": "entail",
+      "phonetic": "/ɪnˈteɪl/",
+      "pos": "v.",
+      "meaningCn": "需要，涉及",
+      "example": "The role entails frequent travel.",
+      "exampleCn": "这个岗位需要经常出差。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w39",
+      "term": "equitable",
+      "phonetic": "/ˈekwɪtəbl/",
+      "pos": "adj.",
+      "meaningCn": "公平的",
+      "example": "We need an equitable distribution of funds.",
+      "exampleCn": "我们需要公平的资金分配。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w40",
+      "term": "eradicate",
+      "phonetic": "/ɪˈrædɪkeɪt/",
+      "pos": "v.",
+      "meaningCn": "根除",
+      "example": "Vaccines helped eradicate the disease.",
+      "exampleCn": "疫苗帮助根除了这种疾病。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w41",
+      "term": "exacerbate",
+      "phonetic": "/ɪɡˈzæsəbeɪt/",
+      "pos": "v.",
+      "meaningCn": "加剧",
+      "example": "Cutting buses would exacerbate congestion.",
+      "exampleCn": "削减公交会加剧拥堵。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w42",
+      "term": "exemplify",
+      "phonetic": "/ɪɡˈzemplɪfaɪ/",
+      "pos": "v.",
+      "meaningCn": "例证",
+      "example": "This case exemplifies the wider trend.",
+      "exampleCn": "这个案例例证了更广泛的趋势。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w43",
+      "term": "expedite",
+      "phonetic": "/ˈekspədaɪt/",
+      "pos": "v.",
+      "meaningCn": "加快",
+      "example": "Online forms expedite the whole process.",
+      "exampleCn": "在线表格加快了整个流程。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w44",
+      "term": "exponential",
+      "phonetic": "/ˌekspəˈnenʃl/",
+      "pos": "adj.",
+      "meaningCn": "指数级的",
+      "example": "The app saw exponential growth.",
+      "exampleCn": "这款应用实现了指数级增长。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w45",
+      "term": "feasible",
+      "phonetic": "/ˈfiːzəbl/",
+      "pos": "adj.",
+      "meaningCn": "可行的",
+      "example": "The plan is technically feasible.",
+      "exampleCn": "该计划在技术上可行。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w46",
+      "term": "foster",
+      "phonetic": "/ˈfɒstə/",
+      "pos": "v.",
+      "meaningCn": "培养，促进",
+      "example": "Group tasks foster cooperation.",
+      "exampleCn": "小组任务促进合作。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w47",
+      "term": "gauge",
+      "phonetic": "/ɡeɪdʒ/",
+      "pos": "v.",
+      "meaningCn": "判断，衡量",
+      "example": "Surveys gauge public opinion.",
+      "exampleCn": "调查衡量公众意见。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w48",
+      "term": "hinder",
+      "phonetic": "/ˈhɪndə/",
+      "pos": "v.",
+      "meaningCn": "阻碍",
+      "example": "Poor lighting hinders night study.",
+      "exampleCn": "照明不足妨碍夜间学习。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w49",
+      "term": "holistic",
+      "phonetic": "/həʊˈlɪstɪk/",
+      "pos": "adj.",
+      "meaningCn": "整体的",
+      "example": "The school takes a holistic approach.",
+      "exampleCn": "这所学校采取整体性的方法。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w50",
+      "term": "illuminate",
+      "phonetic": "/ɪˈluːmɪneɪt/",
+      "pos": "v.",
+      "meaningCn": "阐明；照亮",
+      "example": "The example illuminates a difficult idea.",
+      "exampleCn": "这个例子阐明了一个难懂的观点。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w51",
+      "term": "impede",
+      "phonetic": "/ɪmˈpiːd/",
+      "pos": "v.",
+      "meaningCn": "阻碍",
+      "example": "Heavy rain impeded the rescue.",
+      "exampleCn": "大雨阻碍了救援。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w52",
+      "term": "imperative",
+      "phonetic": "/ɪmˈperətɪv/",
+      "pos": "adj.",
+      "meaningCn": "紧要的",
+      "example": "It is imperative to act now.",
+      "exampleCn": "现在采取行动至关重要。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w53",
+      "term": "impetus",
+      "phonetic": "/ˈɪmpɪtəs/",
+      "pos": "n.",
+      "meaningCn": "推动力",
+      "example": "The award gave fresh impetus to the team.",
+      "exampleCn": "这个奖项给团队带来新动力。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w54",
+      "term": "implication",
+      "phonetic": "/ˌɪmplɪˈkeɪʃn/",
+      "pos": "n.",
+      "meaningCn": "影响，含义",
+      "example": "Consider the implications for teaching.",
+      "exampleCn": "考虑一下对教学的影响。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w55",
+      "term": "inclination",
+      "phonetic": "/ˌɪnklɪˈneɪʃn/",
+      "pos": "n.",
+      "meaningCn": "倾向",
+      "example": "He shows little inclination to change.",
+      "exampleCn": "他几乎没有改变的意愿。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w56",
+      "term": "induce",
+      "phonetic": "/ɪnˈdjuːs/",
+      "pos": "v.",
+      "meaningCn": "引起，诱导",
+      "example": "Discounts induce impulse buying.",
+      "exampleCn": "折扣诱发冲动购物。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w57",
+      "term": "inevitable",
+      "phonetic": "/ɪnˈevɪtəbl/",
+      "pos": "adj.",
+      "meaningCn": "不可避免的",
+      "example": "Some errors are inevitable.",
+      "exampleCn": "有些错误不可避免。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w58",
+      "term": "influx",
+      "phonetic": "/ˈɪnflʌks/",
+      "pos": "n.",
+      "meaningCn": "涌入",
+      "example": "The city saw an influx of tourists.",
+      "exampleCn": "该市迎来了游客涌入。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w59",
+      "term": "inhibit",
+      "phonetic": "/ɪnˈhɪbɪt/",
+      "pos": "v.",
+      "meaningCn": "抑制",
+      "example": "Fear of failure inhibits creativity.",
+      "exampleCn": "对失败的恐惧抑制创造力。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w60",
+      "term": "integral",
+      "phonetic": "/ˈɪntɪɡrəl/",
+      "pos": "adj.",
+      "meaningCn": "不可或缺的",
+      "example": "Feedback is integral to progress.",
+      "exampleCn": "反馈是进步不可或缺的部分。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w61",
+      "term": "intricate",
+      "phonetic": "/ˈɪntrɪkət/",
+      "pos": "adj.",
+      "meaningCn": "错综复杂的",
+      "example": "The system has an intricate structure.",
+      "exampleCn": "这个系统结构错综复杂。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w62",
+      "term": "invaluable",
+      "phonetic": "/ɪnˈvæljuəbl/",
+      "pos": "adj.",
+      "meaningCn": "极宝贵的",
+      "example": "Her advice proved invaluable.",
+      "exampleCn": "她的建议极其宝贵。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w63",
+      "term": "jeopardise",
+      "phonetic": "/ˈdʒepədaɪz/",
+      "pos": "v.",
+      "meaningCn": "危及",
+      "example": "Delays could jeopardise the whole plan.",
+      "exampleCn": "延误可能危及整个计划。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w64",
+      "term": "legitimate",
+      "phonetic": "/lɪˈdʒɪtɪmət/",
+      "pos": "adj.",
+      "meaningCn": "合理的，合法的",
+      "example": "That is a legitimate concern.",
+      "exampleCn": "那是个合理的担忧。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w65",
+      "term": "leverage",
+      "phonetic": "/ˈliːvərɪdʒ/",
+      "pos": "v./n.",
+      "meaningCn": "利用；杠杆",
+      "example": "Small firms leverage online platforms.",
+      "exampleCn": "小公司利用在线平台。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w66",
+      "term": "magnitude",
+      "phonetic": "/ˈmæɡnɪtjuːd/",
+      "pos": "n.",
+      "meaningCn": "规模，重要性",
+      "example": "Few grasp the magnitude of the change.",
+      "exampleCn": "很少有人理解这一变化的规模。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w67",
+      "term": "mandate",
+      "phonetic": "/ˈmændeɪt/",
+      "pos": "n./v.",
+      "meaningCn": "强制要求",
+      "example": "The law mandates seat belts.",
+      "exampleCn": "法律强制要求系安全带。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w68",
+      "term": "mediate",
+      "phonetic": "/ˈmiːdieɪt/",
+      "pos": "v.",
+      "meaningCn": "调解",
+      "example": "A third party mediated the dispute.",
+      "exampleCn": "第三方调解了这场争端。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w69",
+      "term": "meticulous",
+      "phonetic": "/məˈtɪkjələs/",
+      "pos": "adj.",
+      "meaningCn": "一丝不苟的",
+      "example": "She keeps meticulous records.",
+      "exampleCn": "她的记录一丝不苟。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w70",
+      "term": "mitigate",
+      "phonetic": "/ˈmɪtɪɡeɪt/",
+      "pos": "v.",
+      "meaningCn": "减轻",
+      "example": "Tree planting mitigates urban heat.",
+      "exampleCn": "种树可减轻城市热岛效应。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w71",
+      "term": "momentum",
+      "phonetic": "/məˈmentəm/",
+      "pos": "n.",
+      "meaningCn": "势头",
+      "example": "The campaign gained momentum quickly.",
+      "exampleCn": "这场运动迅速获得势头。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w72",
+      "term": "negligible",
+      "phonetic": "/ˈneɡlɪdʒəbl/",
+      "pos": "adj.",
+      "meaningCn": "微不足道的",
+      "example": "The cost difference is negligible.",
+      "exampleCn": "成本差异微不足道。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w73",
+      "term": "notwithstanding",
+      "phonetic": "/ˌnɒtwɪθˈstændɪŋ/",
+      "pos": "prep.",
+      "meaningCn": "尽管",
+      "example": "Notwithstanding the delay, we finished.",
+      "exampleCn": "尽管有延误，我们还是完成了。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w74",
+      "term": "nurture",
+      "phonetic": "/ˈnɜːtʃə/",
+      "pos": "v.",
+      "meaningCn": "培育",
+      "example": "Schools should nurture curiosity.",
+      "exampleCn": "学校应培育好奇心。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w75",
+      "term": "obsolete",
+      "phonetic": "/ˈɒbsəliːt/",
+      "pos": "adj.",
+      "meaningCn": "过时的",
+      "example": "The software became obsolete in two years.",
+      "exampleCn": "这款软件两年就过时了。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w76",
+      "term": "offset",
+      "phonetic": "/ˌɒfˈset/",
+      "pos": "v.",
+      "meaningCn": "抵消",
+      "example": "Tree planting offsets some emissions.",
+      "exampleCn": "植树抵消了部分排放。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w77",
+      "term": "optimal",
+      "phonetic": "/ˈɒptɪməl/",
+      "pos": "adj.",
+      "meaningCn": "最优的",
+      "example": "Find the optimal balance of cost and quality.",
+      "exampleCn": "找到成本与质量的最优平衡。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w78",
+      "term": "outweigh",
+      "phonetic": "/ˌaʊtˈweɪ/",
+      "pos": "v.",
+      "meaningCn": "重于，胜过",
+      "example": "The benefits clearly outweigh the risks.",
+      "exampleCn": "好处显然大于风险。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w79",
+      "term": "paradigm",
+      "phonetic": "/ˈpærədaɪm/",
+      "pos": "n.",
+      "meaningCn": "范式",
+      "example": "Remote work created a new paradigm.",
+      "exampleCn": "远程办公创造了新范式。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w80",
+      "term": "paramount",
+      "phonetic": "/ˈpærəmaʊnt/",
+      "pos": "adj.",
+      "meaningCn": "首要的",
+      "example": "Safety is of paramount importance.",
+      "exampleCn": "安全是头等重要的。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w81",
+      "term": "perceive",
+      "phonetic": "/pəˈsiːv/",
+      "pos": "v.",
+      "meaningCn": "感知，认为",
+      "example": "People perceive risk differently.",
+      "exampleCn": "人们对风险的感知不同。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w82",
+      "term": "persistent",
+      "phonetic": "/pəˈsɪstənt/",
+      "pos": "adj.",
+      "meaningCn": "持续的，坚持的",
+      "example": "Persistent effort produces results.",
+      "exampleCn": "持续的努力产生结果。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w83",
+      "term": "pertinent",
+      "phonetic": "/ˈpɜːtɪnənt/",
+      "pos": "adj.",
+      "meaningCn": "切题的",
+      "example": "Please keep your comments pertinent.",
+      "exampleCn": "请让你的评论切题。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w84",
+      "term": "phenomenon",
+      "phonetic": "/fəˈnɒmɪnən/",
+      "pos": "n.",
+      "meaningCn": "现象",
+      "example": "Urban migration is a global phenomenon.",
+      "exampleCn": "城市迁移是全球现象。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w85",
+      "term": "plausible",
+      "phonetic": "/ˈplɔːzəbl/",
+      "pos": "adj.",
+      "meaningCn": "貌似合理的",
+      "example": "That is a plausible explanation.",
+      "exampleCn": "那是个看似合理的解释。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w86",
+      "term": "precede",
+      "phonetic": "/prɪˈsiːd/",
+      "pos": "v.",
+      "meaningCn": "先于",
+      "example": "A short briefing precedes each session.",
+      "exampleCn": "每场活动前有简短说明。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w87",
+      "term": "predominant",
+      "phonetic": "/prɪˈdɒmɪnənt/",
+      "pos": "adj.",
+      "meaningCn": "主要的",
+      "example": "Rice is the predominant crop here.",
+      "exampleCn": "水稻是这里的主要作物。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w88",
+      "term": "prevalent",
+      "phonetic": "/ˈprevələnt/",
+      "pos": "adj.",
+      "meaningCn": "普遍的",
+      "example": "The habit is prevalent among teenagers.",
+      "exampleCn": "这种习惯在青少年中很普遍。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w89",
+      "term": "proficiency",
+      "phonetic": "/prəˈfɪʃnsi/",
+      "pos": "n.",
+      "meaningCn": "熟练程度",
+      "example": "Language proficiency opens doors.",
+      "exampleCn": "语言熟练程度打开机会之门。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w90",
+      "term": "profound",
+      "phonetic": "/prəˈfaʊnd/",
+      "pos": "adj.",
+      "meaningCn": "深刻的",
+      "example": "The book had a profound effect on me.",
+      "exampleCn": "这本书对我影响深远。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w91",
+      "term": "reinforce",
+      "phonetic": "/ˌriːɪnˈfɔːs/",
+      "pos": "v.",
+      "meaningCn": "强化",
+      "example": "Examples reinforce abstract rules.",
+      "exampleCn": "例子强化抽象规则。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w92",
+      "term": "restrict",
+      "phonetic": "/rɪˈstrɪkt/",
+      "pos": "v.",
+      "meaningCn": "限制",
+      "example": "Some cities restrict car access.",
+      "exampleCn": "一些城市限制汽车通行。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w93",
+      "term": "scrutiny",
+      "phonetic": "/ˈskruːtəni/",
+      "pos": "n.",
+      "meaningCn": "审视",
+      "example": "The plan came under close scrutiny.",
+      "exampleCn": "该计划受到严密审视。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w94",
+      "term": "simultaneously",
+      "phonetic": "/ˌsɪmlˈteɪniəsli/",
+      "pos": "adv.",
+      "meaningCn": "同时地",
+      "example": "Two events happened simultaneously.",
+      "exampleCn": "两件事同时发生。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w95",
+      "term": "subsequent",
+      "phonetic": "/ˈsʌbsɪkwənt/",
+      "pos": "adj.",
+      "meaningCn": "随后的",
+      "example": "Subsequent studies confirmed the result.",
+      "exampleCn": "随后的研究证实了这一结果。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w96",
+      "term": "substantial",
+      "phonetic": "/səbˈstænʃl/",
+      "pos": "adj.",
+      "meaningCn": "大量的",
+      "example": "A substantial minority disagreed.",
+      "exampleCn": "相当一部分人不同意。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w97",
+      "term": "undermine",
+      "phonetic": "/ˌʌndəˈmaɪn/",
+      "pos": "v.",
+      "meaningCn": "削弱",
+      "example": "Constant criticism undermines confidence.",
+      "exampleCn": "不断的批评削弱信心。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w98",
+      "term": "viable",
+      "phonetic": "/ˈvaɪəbl/",
+      "pos": "adj.",
+      "meaningCn": "可行的",
+      "example": "Solar power is now a viable option.",
+      "exampleCn": "太阳能如今是可行的选择。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w99",
+      "term": "widespread",
+      "phonetic": "/ˈwaɪdspred/",
+      "pos": "adj.",
+      "meaningCn": "广泛的",
+      "example": "The practice is widespread in Europe.",
+      "exampleCn": "这种做法在欧洲很普遍。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    },
+    {
+      "id": "ielts65-w100",
+      "term": "counterproductive",
+      "phonetic": "/ˌkaʊntəprəˈdʌktɪv/",
+      "pos": "adj.",
+      "meaningCn": "适得其反的",
+      "example": "Punishing mistakes can be counterproductive.",
+      "exampleCn": "惩罚错误可能适得其反。",
+      "tags": [
+        "雅思 6.0-6.5"
+      ]
+    }
+  ]
+}

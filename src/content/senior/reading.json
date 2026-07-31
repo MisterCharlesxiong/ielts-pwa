@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "level": "senior",
+  "module": "reading",
+  "title": "高中 · 精读 4 篇",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "senior-r1",
+      "title": "The Quiet Return of the Night Train",
+      "wordCount": 216,
+      "estMinutes": 2,
+      "paragraphs": [
+        "For most of the last twenty years, the night train looked like a relic. Budget airlines were cheaper and faster, and one by one European operators closed their sleeper services. Between 2000 and 2018, the number of night routes fell by roughly two thirds.",
+        "The reversal began for reasons that had little to do with romance. Rising fuel taxes on short flights, growing awareness of aviation emissions and, later, a period when air travel became unpredictable all pushed passengers to reconsider the overnight option.",
+        "Operators also changed what they were selling. Older sleepers offered shared compartments with limited privacy. Newer carriages provide single pods with a door, a reading light and a socket, which appeals to travellers who would otherwise pay for a hotel room.",
+        "Economics remains difficult. A sleeper carriage carries far fewer passengers than a daytime coach of the same length, and the train occupies a track slot all night. Without public support, several routes would close again within a season.",
+        "Supporters argue that the comparison with flying is unfair, because aviation benefits from tax exemptions on fuel. Critics reply that subsidising a comfortable service for relatively wealthy travellers is a poor use of public money. Both arguments rest on assumptions about who actually travels at night, and reliable passenger data are surprisingly scarce."
+      ],
+      "questions": [
+        {
+          "id": "senior-r1-q1",
+          "stem": "What mainly caused night trains to decline before 2018?",
+          "points": 1,
+          "explanation": "第一段指出廉价航空更便宜更快，导致夜车线路减少约三分之二。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Poor track maintenance"
+            },
+            {
+              "key": "B",
+              "text": "Cheaper and faster budget flights"
+            },
+            {
+              "key": "C",
+              "text": "A shortage of drivers"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "senior-r1-q2",
+          "stem": "The writer says the revival of night trains was mainly driven by nostalgia.",
+          "points": 1,
+          "explanation": "第二段明确说复兴的原因与浪漫情怀关系不大。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "senior-r1-q3",
+          "stem": "Why do newer sleeper carriages attract passengers?",
+          "points": 1,
+          "explanation": "第三段说明单人舱带门、灯与插座，可替代酒店。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are cheaper than shared compartments"
+            },
+            {
+              "key": "B",
+              "text": "They offer private pods comparable to a hotel room"
+            },
+            {
+              "key": "C",
+              "text": "They travel faster than older trains"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "senior-r1-q4",
+          "stem": "According to the text, reliable data about night-train passengers are limited.",
+          "points": 1,
+          "explanation": "最后一句指出可靠的乘客数据出奇地稀少。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "true"
+        },
+        {
+          "id": "senior-r1-q5",
+          "stem": "Which statement best describes the writer's attitude?",
+          "points": 1,
+          "explanation": "作者同时呈现支持与批评两方，并指出双方都建立在假设上，属于平衡谨慎的态度。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Enthusiastic and certain"
+            },
+            {
+              "key": "B",
+              "text": "Balanced and cautious"
+            },
+            {
+              "key": "C",
+              "text": "Dismissive and negative"
+            }
+          ],
+          "answer": "B"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "relic",
+          "meaningCn": "遗留物，过时之物"
+        },
+        {
+          "term": "compartment",
+          "meaningCn": "车厢包间"
+        },
+        {
+          "term": "track slot",
+          "meaningCn": "线路时刻资源"
+        }
+      ]
+    },
+    {
+      "id": "senior-r2",
+      "title": "Learning a Language After Thirty",
+      "wordCount": 151,
+      "estMinutes": 2,
+      "paragraphs": [
+        "A common belief holds that adults cannot learn languages well. The evidence is more interesting than that. Adults usually acquire vocabulary and grammar faster than children, because they can use explicit rules and prior knowledge. Where they fall behind is pronunciation and, sometimes, willingness to sound foolish.",
+        "One study followed 120 adult learners for eighteen months. Those who spoke aloud for at least fifteen minutes a day improved measurably more than those who studied twice as long in silence. The advantage did not come from talent; it came from feedback.",
+        "Motivation matters, but not in the way many people assume. Learners who wanted to pass an exam often stopped soon after passing it. Learners who wanted to talk to a specific person kept going for years.",
+        "The practical conclusion is unglamorous. Regular, slightly uncomfortable speaking practice beats occasional intensive study, and a concrete social reason beats a general wish to improve."
+      ],
+      "questions": [
+        {
+          "id": "senior-r2-q1",
+          "stem": "In what area do adult learners typically lag behind children?",
+          "points": 1,
+          "explanation": "第一段指出成年人在发音方面落后。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Vocabulary"
+            },
+            {
+              "key": "B",
+              "text": "Grammar rules"
+            },
+            {
+              "key": "C",
+              "text": "Pronunciation"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "senior-r2-q2",
+          "stem": "In the study, learners who studied silently for longer made greater progress.",
+          "points": 1,
+          "explanation": "第二段说明每天出声练习十五分钟的人进步更明显。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "senior-r2-q3",
+          "stem": "Which type of motivation lasted longest?",
+          "points": 1,
+          "explanation": "第三段指出为了与特定的人交流而学习的人坚持数年。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Passing an examination"
+            },
+            {
+              "key": "B",
+              "text": "Talking to a particular person"
+            },
+            {
+              "key": "C",
+              "text": "Improving general ability"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "senior-r2-q4",
+          "stem": "The writer describes the conclusion as exciting and dramatic.",
+          "points": 1,
+          "explanation": "最后一段用 unglamorous 形容结论，意为平淡无奇。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": "senior-r3",
+      "title": "When Cities Cool Themselves",
+      "wordCount": 181,
+      "estMinutes": 2,
+      "paragraphs": [
+        "On a hot afternoon, the centre of a large city can be six degrees warmer than the fields around it. Concrete and asphalt absorb heat during the day and release it slowly at night, so the city never fully cools down. Planners call this the urban heat island effect.",
+        "Trees help, but not equally. A single street tree provides shade for a small area, while a continuous canopy along a road can lower the surface temperature by several degrees. The difference lies in coverage rather than in the number of trees planted.",
+        "Materials matter too. Light-coloured roofs reflect more sunlight than dark ones, and permeable paving allows water to evaporate, taking heat with it. Neither solution is expensive when applied during normal repairs, yet both are often skipped because the benefit is invisible on the day of installation.",
+        "The clearest lesson from recent projects is that cooling measures work best in combination. A city that plants trees but keeps black roofs will see modest gains; a city that changes both may reduce peak temperatures enough to cut hospital admissions during heatwaves."
+      ],
+      "questions": [
+        {
+          "id": "senior-r3-q1",
+          "stem": "What is the urban heat island effect?",
+          "points": 1,
+          "explanation": "第一段解释混凝土与沥青白天吸热、夜间缓慢释放。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cities being cooler than surrounding areas at night"
+            },
+            {
+              "key": "B",
+              "text": "Cities staying warmer because hard surfaces store and release heat"
+            },
+            {
+              "key": "C",
+              "text": "Islands becoming hotter than the mainland"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "senior-r3-q2",
+          "stem": "According to the text, the number of trees matters more than continuous coverage.",
+          "points": 1,
+          "explanation": "第二段强调关键在连续覆盖，而非种树数量。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "senior-r3-q3",
+          "stem": "Why are light roofs and permeable paving often skipped?",
+          "points": 1,
+          "explanation": "第三段指出成本不高，但收益当天看不见，因而常被跳过。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are extremely expensive"
+            },
+            {
+              "key": "B",
+              "text": "Their benefit is not visible immediately"
+            },
+            {
+              "key": "C",
+              "text": "They damage the road surface"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "senior-r3-q4",
+          "stem": "The text suggests combining several cooling measures is more effective than using one.",
+          "points": 1,
+          "explanation": "最后一段直接说明组合措施效果最好。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "senior-r4",
+      "title": "The Museum That Lends Objects",
+      "wordCount": 162,
+      "estMinutes": 2,
+      "paragraphs": [
+        "Most museums keep the majority of their collection in storage. In one regional museum, ninety-four per cent of objects had not been displayed for a decade. The director decided to try something unusual: lending everyday historical objects to local residents.",
+        "The rules were strict. Only robust items were included, each borrower attended a short handling session, and every object was photographed before and after loan. In three years, 1,800 loans produced eleven minor damages and no losses.",
+        "The unexpected result was not about objects at all. Borrowers wrote about the items, and their notes became part of the museum record. A 1950s kitchen scale, previously catalogued in one line, now carries four pages of family memories.",
+        "Critics warn that the scheme depends on a small, trusting community and might not transfer to a large city. The director agrees, and points out that the scheme was never designed as a national model, only as a way to make a specific collection useful again."
+      ],
+      "questions": [
+        {
+          "id": "senior-r4-q1",
+          "stem": "What problem was the director trying to solve?",
+          "points": 1,
+          "explanation": "第一段指出九成四的藏品十年未展出。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "A shortage of visitors"
+            },
+            {
+              "key": "B",
+              "text": "Most of the collection was never displayed"
+            },
+            {
+              "key": "C",
+              "text": "The building needed repairs"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "senior-r4-q2",
+          "stem": "Several objects were lost during the three-year scheme.",
+          "points": 1,
+          "explanation": "第二段说明有十一件轻微损坏，但没有丢失。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "senior-r4-q3",
+          "stem": "What was the unexpected benefit of the scheme?",
+          "points": 1,
+          "explanation": "第三段说明借用者的记述成为馆藏记录的一部分。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "The objects were repaired for free"
+            },
+            {
+              "key": "B",
+              "text": "Borrowers added personal records to the collection"
+            },
+            {
+              "key": "C",
+              "text": "Ticket sales increased sharply"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "senior-r4-q4",
+          "stem": "The director claims the scheme should be adopted nationally.",
+          "points": 1,
+          "explanation": "最后一段说明该方案从未被设计为全国模式。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    }
+  ]
+}

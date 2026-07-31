@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "level": "ielts65",
+  "module": "speaking",
+  "title": "雅思 6.0-6.5 · 跟读 4 句",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "ielts65-sp1",
+      "text": "While remote work saves commuting time, it can also blur the boundary between office hours and private life.",
+      "translationCn": "远程工作虽然节省了通勤时间，但也可能模糊工作时间与私人生活的界限。",
+      "ipa": "/waɪl rɪˈməʊt wɜːk seɪvz kəˈmjuːtɪŋ taɪm ɪt kən ˈɔːlsəʊ blɜː ðə ˈbaʊndri bɪˈtwiːn ˈɒfɪs ˈaʊəz ənd ˈpraɪvət laɪf/",
+      "speakRate": 0.95
+    },
+    {
+      "id": "ielts65-sp2",
+      "text": "What I find particularly interesting is how quickly people adapt to a technology they once resisted.",
+      "translationCn": "我觉得特别有意思的是，人们适应曾经抗拒的技术竟然如此之快。",
+      "ipa": "/wɒt aɪ faɪnd pəˈtɪkjələli ˈɪntrəstɪŋ ɪz haʊ ˈkwɪkli ˈpiːpl əˈdæpt tu ə tekˈnɒlədʒi ðeɪ wʌns rɪˈzɪstɪd/",
+      "speakRate": 0.95
+    },
+    {
+      "id": "ielts65-sp3",
+      "text": "To be honest, I used to believe that talent mattered most, but experience has changed my mind completely.",
+      "translationCn": "说实话，我以前认为天赋最重要，但经历彻底改变了我的看法。",
+      "ipa": "/tə bi ˈɒnɪst aɪ juːst tə bɪˈliːv ðət ˈtælənt ˈmætəd məʊst bət ɪkˈspɪəriəns həz tʃeɪndʒd maɪ maɪnd kəmˈpliːtli/",
+      "speakRate": 1
+    },
+    {
+      "id": "ielts65-sp4",
+      "text": "Rather than banning the practice outright, I think regulators should focus on making the process transparent.",
+      "translationCn": "与其彻底禁止这种做法，我认为监管者更应致力于让流程变得透明。",
+      "ipa": "/ˈrɑːðə ðən ˈbænɪŋ ðə ˈpræktɪs ˈaʊtraɪt aɪ θɪŋk ˈreɡjuleɪtəz ʃəd ˈfəʊkəs ɒn ˈmeɪkɪŋ ðə ˈprəʊses trænsˈpærənt/",
+      "speakRate": 1
+    }
+  ]
+}

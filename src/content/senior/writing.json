@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "level": "senior",
+  "module": "writing",
+  "title": "高中 · 写作 3 题",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "senior-wr1",
+      "taskType": "general",
+      "prompt": "假定你是校英文报的学生记者。近期学校计划把每周三下午改为\"无作业日\"，请写一篇短评，说明你对这一安排的看法，并给出两条支持你观点的理由。",
+      "minWords": 120,
+      "suggestedStructure": [
+        "简述背景：学校拟设立无作业日",
+        "亮明立场：赞成或反对",
+        "给出第一条理由并配一个具体例子",
+        "给出第二条理由并配一个具体例子",
+        "承认一种可能的反对意见并作出回应",
+        "重申立场并提出一句可执行的建议"
+      ],
+      "requiredConnectives": [
+        "To begin with",
+        "Furthermore",
+        "Admittedly",
+        "In conclusion"
+      ],
+      "advancedPatterns": [
+        {
+          "name": "强调句",
+          "template": "It is ... that ...",
+          "sample": "It is the freedom to explore that makes Wednesday afternoon valuable.",
+          "regex": "It is [\\s\\S]{1,60} that"
+        },
+        {
+          "name": "现在分词作状语",
+          "template": "Doing ..., 主语 + 谓语.",
+          "sample": "Spending the afternoon in the library, students learn to manage their own time.",
+          "regex": "^\\w+ing\\b[\\s\\S]{0,60},"
+        },
+        {
+          "name": "the more ... the more ...",
+          "template": "The + 比较级 ..., the + 比较级 ...",
+          "sample": "The more choices students have, the more responsible they become.",
+          "regex": "the more[\\s\\S]{0,60}the more"
+        }
+      ],
+      "modelEssay": {
+        "paragraphs": [
+          {
+            "role": "intro",
+            "en": "Our school is considering turning every Wednesday afternoon into a homework-free session. In my view, this is a change worth making.",
+            "cn": "学校正考虑把每周三下午改为无作业时段。在我看来，这个改变值得推行。",
+            "note": "两句话完成背景与立场，避免拖沓。"
+          },
+          {
+            "role": "body1",
+            "en": "To begin with, the arrangement protects time for deep reading. Last term I finished only two novels; in a homework-free afternoon I could finish one every fortnight.",
+            "cn": "首先，这一安排为深度阅读留出时间。上学期我只读完两本小说；如果有无作业下午，我大约两周就能读完一本。",
+            "note": "理由 + 自身数据，比空谈有说服力。"
+          },
+          {
+            "role": "body2",
+            "en": "Furthermore, it is the freedom to explore that helps us discover real interests. Students could join a robotics club or simply rest, and both choices are valuable.",
+            "cn": "其次，正是这种自由探索让我们发现真正的兴趣。同学可以参加机器人社团，也可以单纯休息，两种选择都有价值。",
+            "note": "使用强调句拿句式分。"
+          },
+          {
+            "role": "concession",
+            "en": "Admittedly, some parents worry that grades may drop. However, research on our own grade shows that rest improves concentration rather than harming it.",
+            "cn": "诚然，有家长担心成绩下滑。然而，本年级的数据表明休息提升了专注度而非损害成绩。",
+            "note": "让步 + 反驳，体现思辨。"
+          },
+          {
+            "role": "conclusion",
+            "en": "In conclusion, I support the plan, and I suggest the school publish a short guide on how to use the free afternoon well.",
+            "cn": "总之，我支持这一计划，并建议学校发布一份如何善用该时段的简短指南。",
+            "note": "结尾落到可执行建议。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "senior-wr2",
+      "taskType": "general",
+      "prompt": "越来越多的高中生使用人工智能工具完成作业。请写一篇议论文，讨论这一现象的利与弊，并给出你自己的建议。",
+      "minWords": 130,
+      "suggestedStructure": [
+        "描述现象并交代讨论范围",
+        "分析积极影响，至少举一个学习场景",
+        "分析潜在风险，至少举一个学习场景",
+        "比较两方面，指出关键取决于什么",
+        "给出面向学生个人的具体建议"
+      ],
+      "requiredConnectives": [
+        "On the one hand",
+        "On the other hand",
+        "Nevertheless",
+        "Overall"
+      ],
+      "advancedPatterns": [
+        {
+          "name": "while 引导的对比状语从句",
+          "template": "While + 主谓, 主谓.",
+          "sample": "While AI can explain a formula instantly, it cannot replace the struggle that builds understanding.",
+          "regex": "^while\\b"
+        },
+        {
+          "name": "those who ...",
+          "template": "Those who + 谓语 + 主句",
+          "sample": "Those who copy answers directly lose the chance to find their own mistakes.",
+          "regex": "those who"
+        }
+      ]
+    },
+    {
+      "id": "senior-wr3",
+      "taskType": "general",
+      "prompt": "你的外教 Mr. Green 即将回国。请写一封告别信，回顾一件你们之间印象最深的事，表达感谢，并邀请他将来再次访问中国。",
+      "minWords": 110,
+      "suggestedStructure": [
+        "说明写信缘由并表达不舍",
+        "回忆一件具体的往事，写清起因与细节",
+        "说明这件事对你英语学习或人生态度的影响",
+        "表达真诚的感谢",
+        "发出再次来访的邀请并祝福"
+      ],
+      "requiredConnectives": [
+        "I still remember",
+        "Thanks to",
+        "Above all",
+        "Once again"
+      ],
+      "advancedPatterns": [
+        {
+          "name": "强调过去习惯",
+          "template": "would + 动词原形",
+          "sample": "You would always stay after class to answer our silly questions.",
+          "regex": "\\bwould always\\b"
+        },
+        {
+          "name": "It was ... that ...（强调过去）",
+          "template": "It was ... that ...",
+          "sample": "It was that rainy afternoon that changed my attitude towards speaking English.",
+          "regex": "It was [\\s\\S]{1,60} that"
+        }
+      ]
+    }
+  ]
+}

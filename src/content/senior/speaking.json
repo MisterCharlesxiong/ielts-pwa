@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "level": "senior",
+  "module": "speaking",
+  "title": "高中 · 跟读 4 句",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "senior-sp1",
+      "text": "I would rather spend my weekend outdoors than stay at home all day.",
+      "translationCn": "我宁愿周末待在户外，也不想整天待在家里。",
+      "ipa": "/aɪ wʊd ˈrɑːðə spend maɪ ˌwiːkˈend ˌaʊtˈdɔːz ðən steɪ ət həʊm ɔːl deɪ/",
+      "speakRate": 0.9
+    },
+    {
+      "id": "senior-sp2",
+      "text": "The teacher suggested that we should read the whole article before the discussion.",
+      "translationCn": "老师建议我们在讨论之前读完整篇文章。",
+      "ipa": "/ðə ˈtiːtʃə səˈdʒestɪd ðət wi ʃəd riːd ðə həʊl ˈɑːtɪkl bɪˈfɔː ðə dɪˈskʌʃn/",
+      "speakRate": 0.9
+    },
+    {
+      "id": "senior-sp3",
+      "text": "Although the task looked difficult at first, we finished it ahead of schedule.",
+      "translationCn": "尽管这项任务起初看起来很难，我们还是提前完成了。",
+      "ipa": "/ɔːlˈðəʊ ðə tɑːsk lʊkt ˈdɪfɪkəlt ət fɜːst wi ˈfɪnɪʃt ɪt əˈhed əv ˈʃedjuːl/",
+      "speakRate": 0.95
+    },
+    {
+      "id": "senior-sp4",
+      "text": "What impressed me most was the way she explained a complex idea in plain words.",
+      "translationCn": "最让我印象深刻的是她用浅显的语言解释复杂观点的方式。",
+      "ipa": "/wɒt ɪmˈprest miː məʊst wɒz ðə weɪ ʃi ɪkˈspleɪnd ə ˈkɒmpleks aɪˈdɪə ɪn pleɪn wɜːdz/",
+      "speakRate": 0.95
+    }
+  ]
+}

@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": 1,
+  "level": "ielts55",
+  "module": "quiz",
+  "title": "雅思 5.5 · 随堂测试 4 套",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "ielts55-q1",
+      "title": "雅思 5.5 · 综合小测 A",
+      "durationSec": 600,
+      "sections": [
+        {
+          "id": "ielts55-q1-s1",
+          "title": "词汇",
+          "moduleRef": "words",
+          "questions": [
+            {
+              "id": "ielts55-q1-s1-q1",
+              "type": "single",
+              "stem": "单词 “accommodation” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "杀虫剂"
+                },
+                {
+                  "key": "B",
+                  "text": "可再生的"
+                },
+                {
+                  "key": "C",
+                  "text": "住宿"
+                },
+                {
+                  "key": "D",
+                  "text": "短缺"
+                }
+              ],
+              "answer": "C",
+              "explanation": "accommodation /əˌkɒməˈdeɪʃn/ n. 住宿\n例：Student accommodation is close to campus.\n学生宿舍离校园很近。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q1-s1-q2",
+              "type": "single",
+              "stem": "单词 “attraction” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "慈善机构"
+                },
+                {
+                  "key": "B",
+                  "text": "乡村"
+                },
+                {
+                  "key": "C",
+                  "text": "建筑（学）"
+                },
+                {
+                  "key": "D",
+                  "text": "吸引力；景点"
+                }
+              ],
+              "answer": "D",
+              "explanation": "attraction /əˈtrækʃn/ n. 吸引力；景点\n例：The museum is the top attraction here.\n博物馆是这里最热门的景点。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q1-s1-q3",
+              "type": "single",
+              "stem": "单词 “childhood” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "奖学金"
+                },
+                {
+                  "key": "B",
+                  "text": "保险"
+                },
+                {
+                  "key": "C",
+                  "text": "童年"
+                },
+                {
+                  "key": "D",
+                  "text": "背景"
+                }
+              ],
+              "answer": "C",
+              "explanation": "childhood /ˈtʃaɪldhʊd/ n. 童年\n例：Childhood habits are hard to change.\n童年养成的习惯很难改变。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q1-s1-q4",
+              "type": "single",
+              "stem": "单词 “countryside” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "住宿"
+                },
+                {
+                  "key": "B",
+                  "text": "回收利用"
+                },
+                {
+                  "key": "C",
+                  "text": "乡村"
+                },
+                {
+                  "key": "D",
+                  "text": "肥胖"
+                }
+              ],
+              "answer": "C",
+              "explanation": "countryside /ˈkʌntrisaɪd/ n. 乡村\n例：Many families moved to the countryside.\n许多家庭搬到了乡下。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q1-s1-q5",
+              "type": "single",
+              "stem": "单词 “destination” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "优先事项"
+                },
+                {
+                  "key": "B",
+                  "text": "设施"
+                },
+                {
+                  "key": "C",
+                  "text": "肥胖"
+                },
+                {
+                  "key": "D",
+                  "text": "目的地"
+                }
+              ],
+              "answer": "D",
+              "explanation": "destination /ˌdestɪˈneɪʃn/ n. 目的地\n例：Iceland is a popular destination.\n冰岛是热门旅游目的地。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q1-s1-q6",
+              "type": "single",
+              "stem": "单词 “electricity” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "回收利用"
+                },
+                {
+                  "key": "B",
+                  "text": "电力"
+                },
+                {
+                  "key": "C",
+                  "text": "人口"
+                },
+                {
+                  "key": "D",
+                  "text": "包装"
+                }
+              ],
+              "answer": "B",
+              "explanation": "electricity /ɪˌlekˈtrɪsəti/ n. 电力\n例：Wind now supplies much of our electricity.\n风能如今提供我们大量电力。",
+              "points": 1,
+              "moduleRef": "words"
+            }
+          ]
+        },
+        {
+          "id": "ielts55-q1-s2",
+          "title": "语法",
+          "moduleRef": "grammar",
+          "questions": [
+            {
+              "id": "ielts55-q1-s2-q1",
+              "stem": "The manager, together with two assistants, ______ attending the fair.",
+              "points": 1,
+              "explanation": "together with 不改变主语单复数，主语是 The manager。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "are"
+                },
+                {
+                  "key": "B",
+                  "text": "is"
+                },
+                {
+                  "key": "C",
+                  "text": "were"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q1-s2-q2",
+              "stem": "Neither the teachers nor the head ______ aware of the change.",
+              "points": 1,
+              "explanation": "neither…nor 遵循就近原则，靠近 the head（单数）。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "were"
+                },
+                {
+                  "key": "B",
+                  "text": "was"
+                },
+                {
+                  "key": "C",
+                  "text": "have been"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q1-s2-q3",
+              "stem": "判断：“Twenty kilometres is a long way to walk.” 主谓一致正确。",
+              "points": 1,
+              "explanation": "表示度量、时间、金钱的复数名词作主语时视为整体，用单数。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "true"
+            },
+            {
+              "id": "ielts55-q1-s2-q4",
+              "stem": "He plays ______ piano but does not play ______ football.",
+              "points": 1,
+              "explanation": "乐器前加 the，球类运动前不加冠词。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "the / the"
+                },
+                {
+                  "key": "B",
+                  "text": "the / 零冠词"
+                },
+                {
+                  "key": "C",
+                  "text": "零冠词 / the"
+                }
+              ],
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "ielts55-q1-s3",
+          "title": "阅读",
+          "moduleRef": "reading",
+          "questions": [
+            {
+              "id": "ielts55-q1-s3-q1",
+              "stem": "（选自《Working from Home: Three Years On》）What proportion of professional employees still work remotely at least twice a week?",
+              "points": 1,
+              "explanation": "第一段给出约四分之一。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "About a tenth"
+                },
+                {
+                  "key": "B",
+                  "text": "About a quarter"
+                },
+                {
+                  "key": "C",
+                  "text": "About a half"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q1-s3-q2",
+              "stem": "（选自《Working from Home: Three Years On》）The passage says commuting in large cities averages nearly an hour a day.",
+              "points": 1,
+              "explanation": "第二段直接给出该数据。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "true"
+            },
+            {
+              "id": "ielts55-q1-s3-q3",
+              "stem": "（选自《Working from Home: Three Years On》）Which group is said to suffer most from a lack of informal contact?",
+              "points": 1,
+              "explanation": "第三段指出新员工在缺乏非正式接触时学习更慢。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Senior managers"
+                },
+                {
+                  "key": "B",
+                  "text": "New staff"
+                },
+                {
+                  "key": "C",
+                  "text": "Part-time workers"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q1-s3-q4",
+              "stem": "（选自《Working from Home: Three Years On》）According to the passage, hybrid meetings automatically treat everyone equally.",
+              "points": 1,
+              "explanation": "第四段说明除非组织刻意改变习惯，否则会议偏向在场者。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts55-q2",
+      "title": "雅思 5.5 · 综合小测 B",
+      "durationSec": 600,
+      "sections": [
+        {
+          "id": "ielts55-q2-s1",
+          "title": "词汇",
+          "moduleRef": "words",
+          "questions": [
+            {
+              "id": "ielts55-q2-s1-q1",
+              "type": "single",
+              "stem": "单词 “ecosystem” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "闲暇"
+                },
+                {
+                  "key": "B",
+                  "text": "生态系统"
+                },
+                {
+                  "key": "C",
+                  "text": "教育"
+                },
+                {
+                  "key": "D",
+                  "text": "紧急情况"
+                }
+              ],
+              "answer": "B",
+              "explanation": "ecosystem /ˈiːkəʊsɪstəm/ n. 生态系统\n例：A wetland is a fragile ecosystem.\n湿地是脆弱的生态系统。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q2-s1-q2",
+              "type": "single",
+              "stem": "单词 “employment” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "部门，系"
+                },
+                {
+                  "key": "B",
+                  "text": "可再生的"
+                },
+                {
+                  "key": "C",
+                  "text": "资源"
+                },
+                {
+                  "key": "D",
+                  "text": "就业"
+                }
+              ],
+              "answer": "D",
+              "explanation": "employment /ɪmˈplɔɪmənt/ n. 就业\n例：Employment rose slightly last year.\n去年就业略有上升。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q2-s1-q3",
+              "type": "single",
+              "stem": "单词 “fertiliser” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "肥料"
+                },
+                {
+                  "key": "B",
+                  "text": "行人"
+                },
+                {
+                  "key": "C",
+                  "text": "遗产"
+                },
+                {
+                  "key": "D",
+                  "text": "社区，街区"
+                }
+              ],
+              "answer": "A",
+              "explanation": "fertiliser /ˈfɜːtəlaɪzə/ n. 肥料\n例：Too much fertiliser pollutes rivers.\n过量肥料污染河流。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q2-s1-q4",
+              "type": "single",
+              "stem": "单词 “heritage” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "配送"
+                },
+                {
+                  "key": "B",
+                  "text": "问卷"
+                },
+                {
+                  "key": "C",
+                  "text": "遗产"
+                },
+                {
+                  "key": "D",
+                  "text": "支出"
+                }
+              ],
+              "answer": "C",
+              "explanation": "heritage /ˈherɪtɪdʒ/ n. 遗产\n例：The old town is a heritage site.\n老城区是文化遗产地。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q2-s1-q5",
+              "type": "single",
+              "stem": "单词 “ingredient” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "原料，要素"
+                },
+                {
+                  "key": "B",
+                  "text": "营销"
+                },
+                {
+                  "key": "C",
+                  "text": "投诉"
+                },
+                {
+                  "key": "D",
+                  "text": "分布；分配"
+                }
+              ],
+              "answer": "A",
+              "explanation": "ingredient /ɪnˈɡriːdiənt/ n. 原料，要素\n例：Read the ingredients on the label.\n阅读标签上的成分表。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q2-s1-q6",
+              "type": "single",
+              "stem": "单词 “lifestyle” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "营销"
+                },
+                {
+                  "key": "B",
+                  "text": "自由职业的"
+                },
+                {
+                  "key": "C",
+                  "text": "生活方式"
+                },
+                {
+                  "key": "D",
+                  "text": "申请；应用"
+                }
+              ],
+              "answer": "C",
+              "explanation": "lifestyle /ˈlaɪfstaɪl/ n. 生活方式\n例：A sedentary lifestyle harms health.\n久坐的生活方式损害健康。",
+              "points": 1,
+              "moduleRef": "words"
+            }
+          ]
+        },
+        {
+          "id": "ielts55-q2-s2",
+          "title": "语法",
+          "moduleRef": "grammar",
+          "questions": [
+            {
+              "id": "ielts55-q2-s2-q1",
+              "stem": "The figure increased ______ 30% over the decade.",
+              "points": 1,
+              "explanation": "by 表示变化的幅度。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "by"
+                },
+                {
+                  "key": "B",
+                  "text": "to"
+                },
+                {
+                  "key": "C",
+                  "text": "at"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts55-q2-s2-q2",
+              "stem": "填空：The workshop takes place ______ 3 p.m. on Friday.",
+              "points": 1,
+              "explanation": "具体时刻用 at。",
+              "moduleRef": "grammar",
+              "type": "blank",
+              "answer": [
+                "at"
+              ]
+            },
+            {
+              "id": "ielts55-q2-s2-q3",
+              "stem": "City A recorded ______ visitors than City B.",
+              "points": 1,
+              "explanation": "far 修饰比较级 more。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "far more"
+                },
+                {
+                  "key": "B",
+                  "text": "far many"
+                },
+                {
+                  "key": "C",
+                  "text": "much many"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts55-q2-s2-q4",
+              "stem": "图表标注 2005–2015，主体描述应使用：",
+              "points": 1,
+              "explanation": "明确的过去区间用一般过去时。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "一般现在时"
+                },
+                {
+                  "key": "B",
+                  "text": "一般过去时"
+                },
+                {
+                  "key": "C",
+                  "text": "现在完成时"
+                }
+              ],
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "ielts55-q2-s3",
+          "title": "阅读",
+          "moduleRef": "reading",
+          "questions": [
+            {
+              "id": "ielts55-q2-s3-q1",
+              "stem": "（选自《Food Waste in the Supply Chain》）Where does most food waste occur in lower-income countries?",
+              "points": 1,
+              "explanation": "第一段说明低收入国家的浪费主要发生在储运环节。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "In homes"
+                },
+                {
+                  "key": "B",
+                  "text": "Before food reaches the shop"
+                },
+                {
+                  "key": "C",
+                  "text": "In restaurants"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q2-s3-q2",
+              "stem": "（选自《Food Waste in the Supply Chain》）The passage states that supermarkets waste more food than households.",
+              "points": 1,
+              "explanation": "第二段说明超市所占份额小于家庭。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts55-q2-s3-q3",
+              "stem": "（选自《Food Waste in the Supply Chain》）Why is household waste difficult to reduce?",
+              "points": 1,
+              "explanation": "第三段指出家庭浪费源于许多细小决策。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It results from many small everyday decisions"
+                },
+                {
+                  "key": "B",
+                  "text": "Households are not interested in saving money"
+                },
+                {
+                  "key": "C",
+                  "text": "There are no labels on food"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts55-q2-s3-q4",
+              "stem": "（选自《Food Waste in the Supply Chain》）Most studies of the interventions are long enough to prove lasting change.",
+              "points": 1,
+              "explanation": "最后一句说明多数研究时间太短。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts55-q3",
+      "title": "雅思 5.5 · 词汇语法专项",
+      "durationSec": 480,
+      "sections": [
+        {
+          "id": "ielts55-q3-s1",
+          "title": "词汇",
+          "moduleRef": "words",
+          "questions": [
+            {
+              "id": "ielts55-q3-s1-q1",
+              "type": "single",
+              "stem": "单词 “hospitality” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "折扣"
+                },
+                {
+                  "key": "B",
+                  "text": "款待；酒店业"
+                },
+                {
+                  "key": "C",
+                  "text": "机会"
+                },
+                {
+                  "key": "D",
+                  "text": "不平等"
+                }
+              ],
+              "answer": "B",
+              "explanation": "hospitality /ˌhɒspɪˈtæləti/ n. 款待；酒店业\n例：She works in the hospitality industry.\n她在酒店业工作。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q3-s1-q2",
+              "type": "single",
+              "stem": "单词 “insurance” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "创造力"
+                },
+                {
+                  "key": "B",
+                  "text": "包装"
+                },
+                {
+                  "key": "C",
+                  "text": "不平等"
+                },
+                {
+                  "key": "D",
+                  "text": "保险"
+                }
+              ],
+              "answer": "D",
+              "explanation": "insurance /ɪnˈʃʊərəns/ n. 保险\n例：Travel insurance covers lost luggage.\n旅游保险涵盖行李丢失。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q3-s1-q3",
+              "type": "single",
+              "stem": "单词 “literacy” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "退休"
+                },
+                {
+                  "key": "B",
+                  "text": "顾客"
+                },
+                {
+                  "key": "C",
+                  "text": "识字，素养"
+                },
+                {
+                  "key": "D",
+                  "text": "紧急情况"
+                }
+              ],
+              "answer": "C",
+              "explanation": "literacy /ˈlɪtərəsi/ n. 识字，素养\n例：Digital literacy is now essential.\n数字素养如今必不可少。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q3-s1-q4",
+              "type": "single",
+              "stem": "单词 “neighbourhood” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "社区，街区"
+                },
+                {
+                  "key": "B",
+                  "text": "毕业生；毕业"
+                },
+                {
+                  "key": "C",
+                  "text": "记者"
+                },
+                {
+                  "key": "D",
+                  "text": "预约"
+                }
+              ],
+              "answer": "A",
+              "explanation": "neighbourhood /ˈneɪbəhʊd/ n. 社区，街区\n例：It is a quiet neighbourhood.\n这是个安静的街区。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q3-s1-q5",
+              "type": "single",
+              "stem": "单词 “pesticide” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "遗产"
+                },
+                {
+                  "key": "B",
+                  "text": "资源"
+                },
+                {
+                  "key": "C",
+                  "text": "杀虫剂"
+                },
+                {
+                  "key": "D",
+                  "text": "名人"
+                }
+              ],
+              "answer": "C",
+              "explanation": "pesticide /ˈpestɪsaɪd/ n. 杀虫剂\n例：Pesticide use worries many consumers.\n杀虫剂的使用让许多消费者担忧。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q3-s1-q6",
+              "type": "single",
+              "stem": "单词 “qualification” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "贫困"
+                },
+                {
+                  "key": "B",
+                  "text": "统计数据"
+                },
+                {
+                  "key": "C",
+                  "text": "资格，学历"
+                },
+                {
+                  "key": "D",
+                  "text": "风景，地貌"
+                }
+              ],
+              "answer": "C",
+              "explanation": "qualification /ˌkwɒlɪfɪˈkeɪʃn/ n. 资格，学历\n例：The job needs a formal qualification.\n这份工作需要正式资历。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q3-s1-q7",
+              "type": "single",
+              "stem": "单词 “scholarship” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "课程体系"
+                },
+                {
+                  "key": "B",
+                  "text": "识字，素养"
+                },
+                {
+                  "key": "C",
+                  "text": "可再生的"
+                },
+                {
+                  "key": "D",
+                  "text": "奖学金"
+                }
+              ],
+              "answer": "D",
+              "explanation": "scholarship /ˈskɒləʃɪp/ n. 奖学金\n例：She won a full scholarship.\n她获得了全额奖学金。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q3-s1-q8",
+              "type": "single",
+              "stem": "单词 “agriculture” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "就业"
+                },
+                {
+                  "key": "B",
+                  "text": "行人"
+                },
+                {
+                  "key": "C",
+                  "text": "优先事项"
+                },
+                {
+                  "key": "D",
+                  "text": "农业"
+                }
+              ],
+              "answer": "D",
+              "explanation": "agriculture /ˈæɡrɪkʌltʃə/ n. 农业\n例：Agriculture still employs many rural workers.\n农业仍雇用大量农村劳动力。",
+              "points": 1,
+              "moduleRef": "words"
+            }
+          ]
+        },
+        {
+          "id": "ielts55-q3-s2",
+          "title": "语法",
+          "moduleRef": "grammar",
+          "questions": [
+            {
+              "id": "ielts55-q3-s2-q1",
+              "stem": "判断：预测到 2035 年的数据可以用 “is projected to reach” 表达。",
+              "points": 1,
+              "explanation": "be projected / expected to 是描述预测数据的标准表达。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "true"
+            },
+            {
+              "id": "ielts55-q3-s2-q2",
+              "stem": "选出正确的一句：",
+              "points": 1,
+              "explanation": "although 与 but 不能连用。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Although it rained, but we continued."
+                },
+                {
+                  "key": "B",
+                  "text": "Although it rained, we continued."
+                },
+                {
+                  "key": "C",
+                  "text": "Although it rained, and we continued."
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q3-s2-q3",
+              "stem": "______ the policy is popular, it is expensive to run.",
+              "points": 1,
+              "explanation": "While 在此表示让步“虽然”。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because"
+                },
+                {
+                  "key": "B",
+                  "text": "While"
+                },
+                {
+                  "key": "C",
+                  "text": "So"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q3-s2-q4",
+              "stem": "判断：“Because he was late, so he missed the bus.” 是正确英语。",
+              "points": 1,
+              "explanation": "because 与 so 不能同时出现。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts55-q3-s2-q5",
+              "stem": "选出指代更清晰的一句：",
+              "points": 1,
+              "explanation": "用“these two changes”明确概括，避免 which / it 指代模糊。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Tourism grew and the airport expanded, which helped the economy."
+                },
+                {
+                  "key": "B",
+                  "text": "Tourism grew and the airport expanded. These two changes helped the economy."
+                },
+                {
+                  "key": "C",
+                  "text": "Tourism grew and the airport expanded, and it helped the economy."
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q3-s2-q6",
+              "stem": "“The report criticised the school and the council, but ______ denied the claims.” 最佳填空是：",
+              "points": 1,
+              "explanation": "前文有两个可能先行词，需直接点名以消除歧义。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "it"
+                },
+                {
+                  "key": "B",
+                  "text": "they"
+                },
+                {
+                  "key": "C",
+                  "text": "the council"
+                }
+              ],
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "id": "ielts55-q3-s3",
+          "title": "阅读",
+          "moduleRef": "reading",
+          "questions": [
+            {
+              "id": "ielts55-q3-s3-q1",
+              "stem": "（选自《Public Libraries in the Digital Age》）What happened to library visits after the early 2000s?",
+              "points": 1,
+              "explanation": "第一段说明先下降后稳定，部分国家再度上升。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They continued to fall"
+                },
+                {
+                  "key": "B",
+                  "text": "They stabilised and later rose in some countries"
+                },
+                {
+                  "key": "C",
+                  "text": "They doubled immediately"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q3-s3-q2",
+              "stem": "（选自《Public Libraries in the Digital Age》）The passage says libraries now offer services beyond lending books.",
+              "points": 1,
+              "explanation": "第二段列出上网、自习、语言课与表格协助等服务。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "true"
+            },
+            {
+              "id": "ielts55-q3-s3-q3",
+              "stem": "（选自《Public Libraries in the Digital Age》）What tension is described in the third paragraph?",
+              "points": 1,
+              "explanation": "第三段明确指出这一矛盾。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Librarians doing social work without training or extra budget"
+                },
+                {
+                  "key": "B",
+                  "text": "Readers arguing about noise"
+                },
+                {
+                  "key": "C",
+                  "text": "Publishers refusing to supply books"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts55-q3-s3-q4",
+              "stem": "（选自《Public Libraries in the Digital Age》）According to the passage, fully open-plan community hubs always increase library use.",
+              "points": 1,
+              "explanation": "最后一段说明完全开放式空间会让常客流失。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts55-q4",
+      "title": "雅思 5.5 · 全真模拟",
+      "durationSec": 900,
+      "sections": [
+        {
+          "id": "ielts55-q4-s1",
+          "title": "词汇",
+          "moduleRef": "words",
+          "questions": [
+            {
+              "id": "ielts55-q4-s1-q1",
+              "type": "single",
+              "stem": "单词 “carbon” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "碳"
+                },
+                {
+                  "key": "B",
+                  "text": "住宿"
+                },
+                {
+                  "key": "C",
+                  "text": "支出"
+                },
+                {
+                  "key": "D",
+                  "text": "生活方式"
+                }
+              ],
+              "answer": "A",
+              "explanation": "carbon /ˈkɑːbən/ n. 碳\n例：Cycling cuts your carbon footprint.\n骑车能减少你的碳足迹。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q4-s1-q2",
+              "type": "single",
+              "stem": "单词 “congestion” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "会员资格"
+                },
+                {
+                  "key": "B",
+                  "text": "拥堵"
+                },
+                {
+                  "key": "C",
+                  "text": "家庭"
+                },
+                {
+                  "key": "D",
+                  "text": "住宿"
+                }
+              ],
+              "answer": "B",
+              "explanation": "congestion /kənˈdʒestʃən/ n. 拥堵\n例：Congestion charges reduced city traffic.\n拥堵费减少了市区交通量。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q4-s1-q3",
+              "type": "single",
+              "stem": "单词 “deadline” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "栖息地"
+                },
+                {
+                  "key": "B",
+                  "text": "截止日期"
+                },
+                {
+                  "key": "C",
+                  "text": "退休"
+                },
+                {
+                  "key": "D",
+                  "text": "慈善机构"
+                }
+              ],
+              "answer": "B",
+              "explanation": "deadline /ˈdedlaɪn/ n. 截止日期\n例：The deadline was extended by a week.\n截止日期延长了一周。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q4-s1-q4",
+              "type": "single",
+              "stem": "单词 “education” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "农业"
+                },
+                {
+                  "key": "B",
+                  "text": "优先事项"
+                },
+                {
+                  "key": "C",
+                  "text": "教育"
+                },
+                {
+                  "key": "D",
+                  "text": "设施"
+                }
+              ],
+              "answer": "C",
+              "explanation": "education /ˌedʒuˈkeɪʃn/ n. 教育\n例：Free education benefits the whole society.\n免费教育惠及全社会。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q4-s1-q5",
+              "type": "single",
+              "stem": "单词 “entertainment” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "遗产"
+                },
+                {
+                  "key": "B",
+                  "text": "闲暇"
+                },
+                {
+                  "key": "C",
+                  "text": "部门，系"
+                },
+                {
+                  "key": "D",
+                  "text": "娱乐"
+                }
+              ],
+              "answer": "D",
+              "explanation": "entertainment /ˌentəˈteɪnmənt/ n. 娱乐\n例：Streaming changed home entertainment.\n流媒体改变了家庭娱乐。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q4-s1-q6",
+              "type": "single",
+              "stem": "单词 “fitness” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "机会"
+                },
+                {
+                  "key": "B",
+                  "text": "工业，行业"
+                },
+                {
+                  "key": "C",
+                  "text": "健康，健身"
+                },
+                {
+                  "key": "D",
+                  "text": "制造"
+                }
+              ],
+              "answer": "C",
+              "explanation": "fitness /ˈfɪtnəs/ n. 健康，健身\n例：Regular walking improves fitness.\n经常散步能改善体能。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q4-s1-q7",
+              "type": "single",
+              "stem": "单词 “hospitality” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "款待；酒店业"
+                },
+                {
+                  "key": "B",
+                  "text": "建筑（学）"
+                },
+                {
+                  "key": "C",
+                  "text": "生态系统"
+                },
+                {
+                  "key": "D",
+                  "text": "娱乐"
+                }
+              ],
+              "answer": "A",
+              "explanation": "hospitality /ˌhɒspɪˈtæləti/ n. 款待；酒店业\n例：She works in the hospitality industry.\n她在酒店业工作。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts55-q4-s1-q8",
+              "type": "single",
+              "stem": "单词 “insurance” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "配送"
+                },
+                {
+                  "key": "B",
+                  "text": "保险"
+                },
+                {
+                  "key": "C",
+                  "text": "拥堵"
+                },
+                {
+                  "key": "D",
+                  "text": "包装"
+                }
+              ],
+              "answer": "B",
+              "explanation": "insurance /ɪnˈʃʊərəns/ n. 保险\n例：Travel insurance covers lost luggage.\n旅游保险涵盖行李丢失。",
+              "points": 1,
+              "moduleRef": "words"
+            }
+          ]
+        },
+        {
+          "id": "ielts55-q4-s2",
+          "title": "语法",
+          "moduleRef": "grammar",
+          "questions": [
+            {
+              "id": "ielts55-q4-s2-q1",
+              "stem": "Water is ______ essential resource for every city.",
+              "points": 1,
+              "explanation": "essential 以元音音素开头，用 an。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a"
+                },
+                {
+                  "key": "B",
+                  "text": "an"
+                },
+                {
+                  "key": "C",
+                  "text": "the"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q4-s2-q2",
+              "stem": "判断：在 Task 1 描述图表时，“the highest figure” 中的 the 不能省略。",
+              "points": 1,
+              "explanation": "最高级前必须加定冠词。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "true"
+            },
+            {
+              "id": "ielts55-q4-s2-q3",
+              "stem": "The delay was due ______ heavy rain.",
+              "points": 1,
+              "explanation": "due to 是固定搭配。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "of"
+                },
+                {
+                  "key": "B",
+                  "text": "to"
+                },
+                {
+                  "key": "C",
+                  "text": "for"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q4-s2-q4",
+              "stem": "The output in 2020 was ______ that in 2010.",
+              "points": 1,
+              "explanation": "倍数词放在 as … as 结构之前。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "three times as much as"
+                },
+                {
+                  "key": "B",
+                  "text": "as three times much as"
+                },
+                {
+                  "key": "C",
+                  "text": "much three times as"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts55-q4-s2-q5",
+              "stem": "判断：在图表作文中用 “compared to the year before” 表达同比是可接受的。",
+              "points": 1,
+              "explanation": "compared to / with 均可用于同比表述。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "true"
+            },
+            {
+              "id": "ielts55-q4-s2-q6",
+              "stem": "流程图描述中最常用的语态是：",
+              "points": 1,
+              "explanation": "流程图强调步骤本身，施动者不重要，用被动语态。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "主动语态"
+                },
+                {
+                  "key": "B",
+                  "text": "被动语态"
+                },
+                {
+                  "key": "C",
+                  "text": "虚拟语气"
+                }
+              ],
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "ielts55-q4-s3",
+          "title": "阅读",
+          "moduleRef": "reading",
+          "questions": [
+            {
+              "id": "ielts55-q4-s3-q1",
+              "stem": "（选自《The Return of the Tram》）Why do supporters see a fixed route as an advantage?",
+              "points": 1,
+              "explanation": "第二段说明固定线路带来二十年的确定性。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It allows higher speeds"
+                },
+                {
+                  "key": "B",
+                  "text": "It gives long-term certainty to businesses and developers"
+                },
+                {
+                  "key": "C",
+                  "text": "It reduces construction costs"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q4-s3-q2",
+              "stem": "（选自《The Return of the Tram》）The passage says shops along a tram route usually benefit during construction.",
+              "points": 1,
+              "explanation": "第三段说明施工期间商铺通常损失生意一年以上。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts55-q4-s3-q3",
+              "stem": "（选自《The Return of the Tram》）When are reductions in car traffic strongest?",
+              "points": 1,
+              "explanation": "最后一段指出与停车限制配合时效果最强。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "When trams replace buses entirely"
+                },
+                {
+                  "key": "B",
+                  "text": "When trams are combined with parking restrictions"
+                },
+                {
+                  "key": "C",
+                  "text": "When ticket prices are lowest"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts55-q4-s3-q4",
+              "stem": "（选自《The Return of the Tram》）The writer concludes that building a tram alone guarantees fewer cars.",
+              "points": 1,
+              "explanation": "最后一句说明电车本身只是解释的一部分。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts55-q4-s3-long",
+              "type": "boolean",
+              "stem": "在一次以「Working from Home: Three Years On」为主题的班级研讨课上，老师要求同学们先在 8 分钟内通读全文，逐段标注出作者的核心论点、两条支持性证据以及至少一处作者本人的态度用词；随后与同桌交换笔记，互相解释自己为什么这样划分段落层次；最后请结合你在文中读到的信息，而不是结合你自己的生活经验或常识，判断下面这句话是否与原文表达的意思一致：「Working from Home: Three Years On 一文的作者认为，读者只要记住结论就足够了，理解论证过程并不重要。」",
+              "answer": "false",
+              "explanation": "原文强调的是「理解论证过程」，仅记住结论无法迁移到新的语境中，因此该说法与原文相悖。此题同时用于验证超长题干在 375px 宽度下的换行表现。",
+              "points": 2,
+              "moduleRef": "reading"
+            }
+          ]
+        },
+        {
+          "id": "ielts55-q4-s4",
+          "title": "写作",
+          "moduleRef": "writing",
+          "questions": [
+            {
+              "id": "ielts55-q4-s4-q1",
+              "type": "single",
+              "stem": "写作题「Some people think that c…」的建议结构中，第 2 步应当是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Body 1: explain why an early start helps pronunciation and confidence"
+                },
+                {
+                  "key": "B",
+                  "text": "Paraphrase the question and state that both sides will be examined"
+                },
+                {
+                  "key": "C",
+                  "text": "Compare the two positions and state which is more convincing"
+                },
+                {
+                  "key": "D",
+                  "text": "Body 2: explain why a later start suits learners with stronger literacy in their first language"
+                }
+              ],
+              "answer": "A",
+              "explanation": "完整建议结构：1. Paraphrase the question and state that both sides will be examined；2. Body 1: explain why an early start helps pronunciation and confidence；3. Body 2: explain why a later start suits learners with stronger literacy in their first language；4. Compare the two positions and state which is more convincing；5. Conclusion: restate the position in different wording",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts55-q4-s4-q2",
+              "type": "boolean",
+              "stem": "判断：本题要求的必备连接词中包含 “On the one hand”。",
+              "answer": "true",
+              "explanation": "本题必备连接词：On the one hand / On the other hand / For example / In my opinion / In conclusion。批改时缺少任一项都会扣「连接词」维度分。",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts55-q4-s4-q3",
+              "type": "single",
+              "stem": "写作题「In many cities, public t…」的建议结构中，第 3 步应当是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Conclusion: link causes to solutions"
+                },
+                {
+                  "key": "B",
+                  "text": "Solution 2: use pricing and workplace incentives"
+                },
+                {
+                  "key": "C",
+                  "text": "Cause 2: unreliable timetables and crowded services"
+                },
+                {
+                  "key": "D",
+                  "text": "Solution 1: improve frequency and reliability with measurable targets"
+                }
+              ],
+              "answer": "C",
+              "explanation": "完整建议结构：1. Paraphrase the problem and outline the two questions to be answered；2. Cause 1: comfort, flexibility and door-to-door convenience；3. Cause 2: unreliable timetables and crowded services；4. Solution 1: improve frequency and reliability with measurable targets；5. Solution 2: use pricing and workplace incentives；6. Conclusion: link causes to solutions",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts55-q4-s4-q4",
+              "type": "boolean",
+              "stem": "判断：本题要求的必备连接词中包含 “One reason is that”。",
+              "answer": "true",
+              "explanation": "本题必备连接词：One reason is that / Another factor is / To tackle this / Overall。批改时缺少任一项都会扣「连接词」维度分。",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts55-q4-s4-q5",
+              "type": "single",
+              "stem": "写作题「The chart below shows th…」的建议结构中，第 4 步应当是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Detail paragraph 2: countries where hours fell or stayed level"
+                },
+                {
+                  "key": "B",
+                  "text": "Close with a comparison of the highest and lowest figures"
+                },
+                {
+                  "key": "C",
+                  "text": "Paraphrase the chart description without copying the wording"
+                },
+                {
+                  "key": "D",
+                  "text": "Detail paragraph 1: countries where working hours rose"
+                }
+              ],
+              "answer": "A",
+              "explanation": "完整建议结构：1. Paraphrase the chart description without copying the wording；2. Write an overview sentence covering the overall trend and the biggest change；3. Detail paragraph 1: countries where working hours rose；4. Detail paragraph 2: countries where hours fell or stayed level；5. Close with a comparison of the highest and lowest figures",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts55-q4-s4-q6",
+              "type": "boolean",
+              "stem": "判断：本题要求的必备连接词中包含 “Overall”。",
+              "answer": "true",
+              "explanation": "本题必备连接词：Overall / In contrast / while / respectively。批改时缺少任一项都会扣「连接词」维度分。",
+              "points": 1,
+              "moduleRef": "writing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

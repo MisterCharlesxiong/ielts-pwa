@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "level": "college",
+  "module": "speaking",
+  "title": "大学 · 跟读 4 句",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "college-sp1",
+      "text": "The research suggests a strong correlation between sleep quality and academic performance.",
+      "translationCn": "该研究表明睡眠质量与学业表现之间存在很强的相关性。",
+      "ipa": "/ðə rɪˈsɜːtʃ səˈdʒests ə strɒŋ ˌkɒrəˈleɪʃn bɪˈtwiːn sliːp ˈkwɒləti ənd ˌækəˈdemɪk pəˈfɔːməns/",
+      "speakRate": 0.9
+    },
+    {
+      "id": "college-sp2",
+      "text": "Before drawing any conclusion, we need to examine whether the sample was truly representative.",
+      "translationCn": "在得出任何结论之前，我们需要检查样本是否真正具有代表性。",
+      "ipa": "/bɪˈfɔː ˈdrɔːɪŋ ˈeni kənˈkluːʒn wi niːd tu ɪɡˈzæmɪn ˈweðə ðə ˈsɑːmpl wɒz ˈtruːli ˌreprɪˈzentətɪv/",
+      "speakRate": 0.9
+    },
+    {
+      "id": "college-sp3",
+      "text": "Collaboration across departments often produces insights that no single team could reach alone.",
+      "translationCn": "跨部门协作常常产生任何单个团队都无法独立获得的洞见。",
+      "ipa": "/kəˌlæbəˈreɪʃn əˈkrɒs dɪˈpɑːtmənts ˈɒfn ˈprɒdjuːsɪz ˈɪnsaɪts ðət nəʊ ˈsɪŋɡl tiːm kʊd riːtʃ əˈləʊn/",
+      "speakRate": 0.95
+    },
+    {
+      "id": "college-sp4",
+      "text": "I would argue that the benefits of the policy outweigh its short term costs for most students.",
+      "translationCn": "我认为对大多数学生而言，这项政策的收益超过其短期成本。",
+      "ipa": "/aɪ wʊd ˈɑːɡjuː ðət ðə ˈbenɪfɪts əv ðə ˈpɒləsi ˌaʊtˈweɪ ɪts ʃɔːt tɜːm kɒsts fə məʊst ˈstjuːdnts/",
+      "speakRate": 0.95
+    }
+  ]
+}

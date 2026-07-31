@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "level": "junior",
+  "module": "speaking",
+  "title": "初中 · 跟读 4 句",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "junior-sp1",
+      "text": "Could you tell me how to get to the nearest bus stop?",
+      "translationCn": "你能告诉我怎么去最近的公交车站吗？",
+      "ipa": "/kʊd juː tel miː haʊ tə ɡet tə ðə ˈnɪərɪst bʌs stɒp/",
+      "speakRate": 0.85
+    },
+    {
+      "id": "junior-sp2",
+      "text": "I usually walk to school with my best friend in the morning.",
+      "translationCn": "我早上通常和最好的朋友一起走路去学校。",
+      "ipa": "/aɪ ˈjuːʒuəli wɔːk tə skuːl wɪð maɪ best frend ɪn ðə ˈmɔːnɪŋ/",
+      "speakRate": 0.85
+    },
+    {
+      "id": "junior-sp3",
+      "text": "My favourite subject is science because the experiments are really fun.",
+      "translationCn": "我最喜欢的科目是科学，因为实验非常有趣。",
+      "ipa": "/maɪ ˈfeɪvərɪt ˈsʌbdʒɪkt ɪz ˈsaɪəns bɪˈkɒz ði ɪkˈsperɪmənts ə ˈrɪəli fʌn/",
+      "speakRate": 0.9
+    },
+    {
+      "id": "junior-sp4",
+      "text": "Would you like to join our reading club after class this Friday afternoon?",
+      "translationCn": "这周五下午课后你愿意加入我们的阅读社团吗？",
+      "ipa": "/wʊd juː laɪk tə dʒɔɪn ˈaʊə ˈriːdɪŋ klʌb ˈɑːftə klɑːs ðɪs ˈfraɪdeɪ ˌɑːftəˈnuːn/",
+      "speakRate": 0.9
+    }
+  ]
+}

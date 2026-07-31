@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 1,
+  "level": "ielts7plus",
+  "module": "reading",
+  "title": "雅思 7 分+ · 精读 4 篇",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "ielts7plus-r1",
+      "title": "The Uneasy Case for Technological Optimism",
+      "wordCount": 272,
+      "estMinutes": 2,
+      "paragraphs": [
+        "Arguments about technology tend to divide into two familiar postures. Optimists observe that predicted catastrophes have repeatedly failed to materialise and infer that alarm is systematically overdone. Pessimists observe that past success is a poor guide when the mechanism of risk changes, and infer that the absence of previous disaster proves little. Both inferences are defensible; neither settles the question.",
+        "A more productive framing distinguishes between risks that are reversible and those that are not. Where a mistake can be corrected within a generation, iterative deployment and rapid feedback are reasonable. Where the plausible worst case forecloses future options, the asymmetry between the cost of caution and the cost of error justifies a slower approach even under considerable uncertainty about probabilities.",
+        "This distinction cuts across the usual political alignments. It implies tolerance for experimentation in domains such as materials science, where failures are contained and informative, and correspondingly greater restraint in domains where systems are tightly coupled and errors propagate before they are noticed.",
+        "The framing is not without difficulties. Reversibility is itself uncertain, and there is a temptation to classify any disliked technology as irreversible in order to justify prohibition. Guarding against that requires specifying, in advance and in concrete terms, what evidence would move a technology from one category to the other.",
+        "Perhaps the most consequential objection is that the distinction does nothing to address distribution. A risk that is reversible at the level of a society may be permanent for a particular community, and aggregate reasoning conceals this. A defensible framework must therefore ask not only whether a mistake can be undone, but for whom, and on what timescale."
+      ],
+      "questions": [
+        {
+          "id": "ielts7plus-r1-q1",
+          "stem": "What does the writer say about the two familiar postures?",
+          "points": 1,
+          "explanation": "第一段末句明确指出两种推论都站得住，但都不能定论。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Both inferences are defensible but neither resolves the question"
+            },
+            {
+              "key": "B",
+              "text": "The optimists are demonstrably correct"
+            },
+            {
+              "key": "C",
+              "text": "The pessimists rely on no evidence at all"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts7plus-r1-q2",
+          "stem": "The writer proposes distinguishing risks by whether they are reversible.",
+          "points": 1,
+          "explanation": "第二段提出可逆与不可逆的区分。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "true"
+        },
+        {
+          "id": "ielts7plus-r1-q3",
+          "stem": "In which kind of domain does the framing support greater restraint?",
+          "points": 1,
+          "explanation": "第三段指出强耦合、错误快速传播的领域需要更多克制。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Domains where failures are contained and informative"
+            },
+            {
+              "key": "B",
+              "text": "Domains where systems are tightly coupled and errors spread unnoticed"
+            },
+            {
+              "key": "C",
+              "text": "Domains with the largest commercial value"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts7plus-r1-q4",
+          "stem": "The writer acknowledges that the reversibility criterion could be misused.",
+          "points": 1,
+          "explanation": "第四段承认存在把不喜欢的技术归为不可逆以支持禁令的诱惑。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "true"
+        },
+        {
+          "id": "ielts7plus-r1-q5",
+          "stem": "What does the writer identify as the most consequential objection?",
+          "points": 1,
+          "explanation": "最后一段指出总量推理掩盖了特定群体承受的永久性损害。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "That reversibility is expensive to measure"
+            },
+            {
+              "key": "B",
+              "text": "That aggregate reasoning hides unequal distribution of harm"
+            },
+            {
+              "key": "C",
+              "text": "That politicians will ignore the framework"
+            }
+          ],
+          "answer": "B"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "posture",
+          "meaningCn": "立场，姿态"
+        },
+        {
+          "term": "iterative",
+          "meaningCn": "迭代式的"
+        },
+        {
+          "term": "foreclose",
+          "meaningCn": "排除（未来选择）"
+        },
+        {
+          "term": "tightly coupled",
+          "meaningCn": "强耦合的"
+        }
+      ]
+    },
+    {
+      "id": "ielts7plus-r2",
+      "title": "Translation and the Illusion of Equivalence",
+      "wordCount": 204,
+      "estMinutes": 2,
+      "paragraphs": [
+        "The everyday model of translation assumes a message that exists independently of language and can be transferred intact between codes. Practising translators rarely recognise this description. What they encounter is a text whose meaning is partly constituted by the resources of its own language, including rhythm, register and the associations that particular words carry.",
+        "Consider terms of address. A language that grammaticalises social distance forces a choice at every turn; a language that does not obliges the translator either to omit the information or to add material that the original never made explicit. Neither option is neutral, and the second risks over-specifying what the author left implicit.",
+        "Literary translators have developed a vocabulary for these trade-offs, distinguishing between fluency, which conceals the translator's intervention, and visibility, which acknowledges it. The dominance of fluent translation in some markets has been criticised on the grounds that it presents the foreign text as if it had been written locally, quietly erasing difference.",
+        "Machine translation has changed the practical landscape without resolving the theoretical problem. Systems trained on parallel corpora reproduce the conventions of previous human translations, including their omissions. Fluency has improved dramatically; the question of what should be preserved has not become any easier to answer."
+      ],
+      "questions": [
+        {
+          "id": "ielts7plus-r2-q1",
+          "stem": "What assumption does the writer attribute to the everyday model of translation?",
+          "points": 1,
+          "explanation": "第一段开头即描述这一日常模型。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "That meaning exists independently of language and transfers intact"
+            },
+            {
+              "key": "B",
+              "text": "That translation is impossible"
+            },
+            {
+              "key": "C",
+              "text": "That only literary texts can be translated"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts7plus-r2-q2",
+          "stem": "The writer argues that adding explicit information about social distance is a neutral solution.",
+          "points": 1,
+          "explanation": "第二段明确说两种选择都不中立，且补充信息有过度specify的风险。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "ielts7plus-r2-q3",
+          "stem": "What criticism is made of fluent translation?",
+          "points": 1,
+          "explanation": "第三段指出流畅译文让外语文本看似本地写成，抹去差异。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is too slow to produce"
+            },
+            {
+              "key": "B",
+              "text": "It hides the translator and erases foreignness"
+            },
+            {
+              "key": "C",
+              "text": "It cannot handle poetry"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts7plus-r2-q4",
+          "stem": "According to the passage, machine translation has resolved the theoretical problem.",
+          "points": 1,
+          "explanation": "最后一段说明它改变了实践格局但未解决理论问题。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": "ielts7plus-r3",
+      "title": "Infrastructure and the Politics of Maintenance",
+      "wordCount": 203,
+      "estMinutes": 2,
+      "paragraphs": [
+        "Public debate about infrastructure concentrates almost entirely on construction. Ribbon-cutting is visible, attributable and photogenic; maintenance is none of these things. The predictable consequence is a stock of assets built with enthusiasm and sustained with reluctance.",
+        "The accounting treatment reinforces the bias. Capital expenditure is frequently financed by borrowing and recorded as investment, whereas maintenance appears as current spending and competes directly with services that have organised constituencies. A bridge that is neglected does not lobby.",
+        "Deferred maintenance is not merely delayed maintenance. Deterioration is typically non-linear: a surface that is resealed on schedule may last decades, while the same surface left for a few additional years may require full reconstruction at many times the cost. Postponement therefore converts a small predictable expense into a large unpredictable one.",
+        "Reform proposals include ring-fenced maintenance budgets, statutory condition reporting and contracts that bundle construction with long-term upkeep. Each has documented weaknesses. Bundled contracts, for example, transfer risk to the contractor but reduce flexibility and can prove costly when requirements change.",
+        "What unites successful jurisdictions is less a particular instrument than a habit of publishing asset condition in a form that citizens can interpret. Visibility does not guarantee funding, but invisibility very nearly guarantees its absence."
+      ],
+      "questions": [
+        {
+          "id": "ielts7plus-r3-q1",
+          "stem": "Why does the writer say maintenance is politically neglected?",
+          "points": 1,
+          "explanation": "第一段指出维护不可见、不可归功、不上镜。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is technically difficult"
+            },
+            {
+              "key": "B",
+              "text": "It is invisible and cannot be attributed to a politician"
+            },
+            {
+              "key": "C",
+              "text": "It is prohibited by accounting rules"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts7plus-r3-q2",
+          "stem": "The passage claims that deterioration proceeds at a steady, linear rate.",
+          "points": 1,
+          "explanation": "第三段明确说劣化通常是非线性的。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "ielts7plus-r3-q3",
+          "stem": "What weakness of bundled contracts is mentioned?",
+          "points": 1,
+          "explanation": "第四段指出捆绑合同降低灵活性、需求变化时代价高。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "They eliminate contractor risk entirely"
+            },
+            {
+              "key": "B",
+              "text": "They reduce flexibility and can be costly when requirements change"
+            },
+            {
+              "key": "C",
+              "text": "They prevent any condition reporting"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts7plus-r3-q4",
+          "stem": "The writer concludes that publishing asset condition guarantees adequate funding.",
+          "points": 1,
+          "explanation": "最后一句说可见性不保证资金，但不可见几乎保证没有资金。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": "ielts7plus-r4",
+      "title": "Expertise, Judgement and the Limits of Rules",
+      "wordCount": 199,
+      "estMinutes": 2,
+      "paragraphs": [
+        "Checklists have transformed safety in aviation and surgery, and their success has encouraged wider adoption. The underlying insight is that experts reliably fail at routine steps under time pressure, and that a simple external memory aid removes a large class of errors at negligible cost.",
+        "Enthusiasm has, however, outrun the evidence in some settings. Checklists work best where the task is well specified, the failure modes are known and the environment is comparatively stable. Where problems are ill-structured, the same instrument can substitute compliance for thought, producing documentation that certifies attention rather than delivering it.",
+        "The distinction matters because the two regimes require different professional cultures. Rule-following rewards conscientiousness; judgement under uncertainty rewards the willingness to depart from procedure when the situation does not fit. An organisation that punishes every deviation will get the first and lose the second.",
+        "Attempts to reconcile the two often take the form of graded protocols: mandatory steps for well-understood risks, and explicit permission to deviate, with a requirement to record the reasoning. Evaluations suggest such schemes work only where the recorded reasoning is actually reviewed and where deviation, when justified, carries no penalty. Without those conditions, staff simply learn to comply on paper."
+      ],
+      "questions": [
+        {
+          "id": "ielts7plus-r4-q1",
+          "stem": "What is the underlying insight behind checklists?",
+          "points": 1,
+          "explanation": "第一段明确说明专家在时间压力下会遗漏常规步骤。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Experts lack knowledge of their field"
+            },
+            {
+              "key": "B",
+              "text": "Experts fail at routine steps under pressure, and a memory aid removes such errors"
+            },
+            {
+              "key": "C",
+              "text": "Novices should replace experts"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts7plus-r4-q2",
+          "stem": "The passage says checklists are equally effective for ill-structured problems.",
+          "points": 1,
+          "explanation": "第二段指出在结构不良的问题中，清单可能以合规取代思考。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "ielts7plus-r4-q3",
+          "stem": "What risk does the writer see in punishing every deviation?",
+          "points": 1,
+          "explanation": "第三段说明惩罚一切偏离会得到尽责但失去判断力。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "The organisation loses the capacity for judgement"
+            },
+            {
+              "key": "B",
+              "text": "The organisation becomes less conscientious"
+            },
+            {
+              "key": "C",
+              "text": "Checklists become longer"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts7plus-r4-q4",
+          "stem": "According to the passage, graded protocols work only if recorded reasoning is genuinely reviewed.",
+          "points": 1,
+          "explanation": "最后一段给出这一条件，否则员工只会在纸面上合规。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    }
+  ]
+}

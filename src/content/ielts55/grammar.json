@@ -1,0 +1,587 @@
+{
+  "schemaVersion": 1,
+  "level": "ielts55",
+  "module": "grammar",
+  "title": "雅思 5.5 · 语法专题 8 讲",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "ielts55-g1",
+      "title": "主谓一致高频陷阱",
+      "ruleText": "就近原则（there be、or、either…or）、就远原则（as well as、together with）、\n集体名词（the number of + 单数 / a number of + 复数）是三大常考点。",
+      "examples": [
+        {
+          "en": "The number of applicants has risen sharply.",
+          "cn": "申请人数量急剧上升。"
+        },
+        {
+          "en": "A number of students were absent.",
+          "cn": "不少学生缺席了。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts55-g1-e1",
+          "stem": "The manager, together with two assistants, ______ attending the fair.",
+          "points": 1,
+          "explanation": "together with 不改变主语单复数，主语是 The manager。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "were"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g1-e2",
+          "stem": "Neither the teachers nor the head ______ aware of the change.",
+          "points": 1,
+          "explanation": "neither…nor 遵循就近原则，靠近 the head（单数）。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "were"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "have been"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g1-e3",
+          "stem": "判断：“Twenty kilometres is a long way to walk.” 主谓一致正确。",
+          "points": 1,
+          "explanation": "表示度量、时间、金钱的复数名词作主语时视为整体，用单数。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "ielts55-g2",
+      "title": "冠词 a / an / the / 零冠词",
+      "ruleText": "首次提及用 a / an，再次提及或双方已知用 the；\n表示**类指**可用 the + 单数、a + 单数或复数零冠词；\n抽象名词、学科名、三餐、交通方式（by bus）一般不加冠词。",
+      "examples": [
+        {
+          "en": "The computer has transformed modern work.",
+          "cn": "计算机改变了现代工作。"
+        },
+        {
+          "en": "She goes to work by bus.",
+          "cn": "她乘公交上班。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts55-g2-e1",
+          "stem": "He plays ______ piano but does not play ______ football.",
+          "points": 1,
+          "explanation": "乐器前加 the，球类运动前不加冠词。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "the / the"
+            },
+            {
+              "key": "B",
+              "text": "the / 零冠词"
+            },
+            {
+              "key": "C",
+              "text": "零冠词 / the"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g2-e2",
+          "stem": "Water is ______ essential resource for every city.",
+          "points": 1,
+          "explanation": "essential 以元音音素开头，用 an。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "a"
+            },
+            {
+              "key": "B",
+              "text": "an"
+            },
+            {
+              "key": "C",
+              "text": "the"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g2-e3",
+          "stem": "判断：在 Task 1 描述图表时，“the highest figure” 中的 the 不能省略。",
+          "points": 1,
+          "explanation": "最高级前必须加定冠词。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "ielts55-g3",
+      "title": "常用介词搭配",
+      "ruleText": "时间：in + 年/月，on + 具体日期，at + 时刻。\n趋势：increase **by** 5%（增幅）／increase **to** 50%（增至）。\n对比：compared **with / to**；原因：due **to**。",
+      "examples": [
+        {
+          "en": "Sales rose by 12% in 2022.",
+          "cn": "2022 年销售额增长了 12%。"
+        },
+        {
+          "en": "Attendance fell to just 40 people.",
+          "cn": "出席人数降至仅 40 人。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts55-g3-e1",
+          "stem": "The figure increased ______ 30% over the decade.",
+          "points": 1,
+          "explanation": "by 表示变化的幅度。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "by"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "at"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts55-g3-e2",
+          "stem": "The delay was due ______ heavy rain.",
+          "points": 1,
+          "explanation": "due to 是固定搭配。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "of"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g3-e3",
+          "stem": "填空：The workshop takes place ______ 3 p.m. on Friday.",
+          "points": 1,
+          "explanation": "具体时刻用 at。",
+          "moduleRef": "grammar",
+          "type": "blank",
+          "answer": [
+            "at"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts55-g4",
+      "title": "比较结构与数据对比",
+      "ruleText": "常用句式：**A is twice as high as B**、**A is three times higher than B**、\n**the gap between A and B narrowed**。\n注意倍数表达的位置：twice / three times 置于 as … as 之前。",
+      "examples": [
+        {
+          "en": "Spending on housing was twice as high as that on food.",
+          "cn": "住房支出是食品支出的两倍。"
+        },
+        {
+          "en": "The gap between the two groups narrowed after 2015.",
+          "cn": "2015 年后两组差距缩小。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts55-g4-e1",
+          "stem": "The output in 2020 was ______ that in 2010.",
+          "points": 1,
+          "explanation": "倍数词放在 as … as 结构之前。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "three times as much as"
+            },
+            {
+              "key": "B",
+              "text": "as three times much as"
+            },
+            {
+              "key": "C",
+              "text": "much three times as"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts55-g4-e2",
+          "stem": "City A recorded ______ visitors than City B.",
+          "points": 1,
+          "explanation": "far 修饰比较级 more。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "far more"
+            },
+            {
+              "key": "B",
+              "text": "far many"
+            },
+            {
+              "key": "C",
+              "text": "much many"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ielts55-g4-e3",
+          "stem": "判断：在图表作文中用 “compared to the year before” 表达同比是可接受的。",
+          "points": 1,
+          "explanation": "compared to / with 均可用于同比表述。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "ielts55-g5",
+      "title": "Task 1 时态选择",
+      "ruleText": "图表若标明**过去年份**，主体用一般过去时；\n若为**预测年份**，用一般将来时或 be expected to；\n无时间标注的流程图 / 地图用一般现在时（流程常用被动）。",
+      "examples": [
+        {
+          "en": "Between 1990 and 2000, car ownership doubled.",
+          "cn": "1990 至 2000 年间汽车拥有量翻倍。"
+        },
+        {
+          "en": "The raw material is first washed and then dried.",
+          "cn": "原料先被清洗，然后烘干。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts55-g5-e1",
+          "stem": "图表标注 2005–2015，主体描述应使用：",
+          "points": 1,
+          "explanation": "明确的过去区间用一般过去时。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "一般现在时"
+            },
+            {
+              "key": "B",
+              "text": "一般过去时"
+            },
+            {
+              "key": "C",
+              "text": "现在完成时"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g5-e2",
+          "stem": "流程图描述中最常用的语态是：",
+          "points": 1,
+          "explanation": "流程图强调步骤本身，施动者不重要，用被动语态。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "主动语态"
+            },
+            {
+              "key": "B",
+              "text": "被动语态"
+            },
+            {
+              "key": "C",
+              "text": "虚拟语气"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g5-e3",
+          "stem": "判断：预测到 2035 年的数据可以用 “is projected to reach” 表达。",
+          "points": 1,
+          "explanation": "be projected / expected to 是描述预测数据的标准表达。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "ielts55-g6",
+      "title": "并列连词与从属连词",
+      "ruleText": "并列连词（and / but / or / so）连接**同等成分**；\n从属连词（although / because / while）引导**从句**。\n**不能**同时使用 although 与 but，这是中式英语高频错误。",
+      "examples": [
+        {
+          "en": "Although the cost rose, demand stayed strong.",
+          "cn": "尽管成本上升，需求依然强劲。"
+        },
+        {
+          "en": "The service is cheap, so many students use it.",
+          "cn": "这项服务便宜，所以很多学生使用。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts55-g6-e1",
+          "stem": "选出正确的一句：",
+          "points": 1,
+          "explanation": "although 与 but 不能连用。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although it rained, but we continued."
+            },
+            {
+              "key": "B",
+              "text": "Although it rained, we continued."
+            },
+            {
+              "key": "C",
+              "text": "Although it rained, and we continued."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g6-e2",
+          "stem": "______ the policy is popular, it is expensive to run.",
+          "points": 1,
+          "explanation": "While 在此表示让步“虽然”。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Because"
+            },
+            {
+              "key": "B",
+              "text": "While"
+            },
+            {
+              "key": "C",
+              "text": "So"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g6-e3",
+          "stem": "判断：“Because he was late, so he missed the bus.” 是正确英语。",
+          "points": 1,
+          "explanation": "because 与 so 不能同时出现。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": "ielts55-g7",
+      "title": "代词指代清晰",
+      "ruleText": "每个代词都应有**唯一且就近**的先行词。\n避免用 it / they 指代整段内容；改用“this + 概括名词”，如 this approach、these findings。",
+      "examples": [
+        {
+          "en": "The council rejected the plan. This decision angered residents.",
+          "cn": "议会否决了该计划，这一决定激怒了居民。"
+        },
+        {
+          "en": "Students value feedback because it guides revision.",
+          "cn": "学生重视反馈，因为它指导修改。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts55-g7-e1",
+          "stem": "选出指代更清晰的一句：",
+          "points": 1,
+          "explanation": "用“these two changes”明确概括，避免 which / it 指代模糊。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tourism grew and the airport expanded, which helped the economy."
+            },
+            {
+              "key": "B",
+              "text": "Tourism grew and the airport expanded. These two changes helped the economy."
+            },
+            {
+              "key": "C",
+              "text": "Tourism grew and the airport expanded, and it helped the economy."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g7-e2",
+          "stem": "“The report criticised the school and the council, but ______ denied the claims.” 最佳填空是：",
+          "points": 1,
+          "explanation": "前文有两个可能先行词，需直接点名以消除歧义。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "it"
+            },
+            {
+              "key": "B",
+              "text": "they"
+            },
+            {
+              "key": "C",
+              "text": "the council"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ielts55-g7-e3",
+          "stem": "判断：在雅思写作中，反复使用 “this” 而不带名词会降低连贯性得分。",
+          "points": 1,
+          "explanation": "考官评分标准中的 Coherence and Cohesion 明确关注指代清晰度。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "ielts55-g8",
+      "title": "常见中式英语纠错",
+      "ruleText": "典型问题：**动词冗余**（make a discussion → discuss）、\n**范畴词冗余**（in the field of education → in education）、\n**主语缺失**（因中文无主句直译）以及**形容词与副词误用**。",
+      "examples": [
+        {
+          "en": "We discussed the plan. （不写 We made a discussion about the plan.）",
+          "cn": "我们讨论了该计划。"
+        },
+        {
+          "en": "Prices rose sharply. （不写 Prices rose in a sharp way.）",
+          "cn": "价格急剧上涨。"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "ielts55-g8-e1",
+          "stem": "选出更地道的表达：",
+          "points": 1,
+          "explanation": "pay attention to；且应使用形容词 environmental 修饰名词。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "We should pay attention on the environment problem."
+            },
+            {
+              "key": "B",
+              "text": "We should pay attention to environmental problems."
+            },
+            {
+              "key": "C",
+              "text": "We should pay attention for environment problem."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g8-e2",
+          "stem": "“With the development of society, people s life becomes better.” 的主要问题是：",
+          "points": 1,
+          "explanation": "这是典型模板套话，考官会判定为记忆性语言，宜改写为具体表述。",
+          "moduleRef": "grammar",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "时态错误"
+            },
+            {
+              "key": "B",
+              "text": "套话且主谓搭配生硬"
+            },
+            {
+              "key": "C",
+              "text": "拼写错误"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ielts55-g8-e3",
+          "stem": "判断：“According to my opinion” 是正确的英语表达。",
+          "points": 1,
+          "explanation": "应为 In my opinion 或 According to + 他人/资料。",
+          "moduleRef": "grammar",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    }
+  ]
+}

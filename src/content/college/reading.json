@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "level": "college",
+  "module": "reading",
+  "title": "大学 · 精读 4 篇",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "college-r1",
+      "title": "Replication and the Credibility of Research",
+      "wordCount": 233,
+      "estMinutes": 2,
+      "paragraphs": [
+        "A finding that cannot be reproduced is, at best, a hypothesis. Over the past fifteen years, several large replication projects have tried to repeat well-known studies under similar conditions. In psychology, roughly forty per cent of attempted replications produced results consistent with the originals; in cancer biology, the figure was lower still.",
+        "These numbers are often reported as a scandal, but the interpretation is not straightforward. A failed replication may indicate that the original result was a false positive, that the replication was underpowered, or that an unrecognised variable differs between the two settings. Distinguishing among these explanations requires further work, which is rarely funded.",
+        "Incentives explain much of the problem. Journals have historically preferred novel, positive findings, and academic careers depend on publication. A researcher who spends two years confirming someone else's result gains little professional credit, even though the contribution to collective knowledge may be substantial.",
+        "Reforms have followed. Pre-registration requires researchers to state hypotheses and analysis plans before collecting data, which limits the flexibility that allows weak findings to appear strong. Registered reports go further: journals accept the study on the basis of its design, before results exist.",
+        "Sceptics note that these mechanisms add administrative burden and may discourage exploratory research, which has its own value. The reasonable position is not that exploration is bad, but that exploratory and confirmatory work should be labelled honestly and evaluated by different standards."
+      ],
+      "questions": [
+        {
+          "id": "college-r1-q1",
+          "stem": "According to the passage, what does a failed replication NOT necessarily prove?",
+          "points": 1,
+          "explanation": "第二段列出三种可能解释，失败并不必然说明原结果为假。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "That the original finding was false"
+            },
+            {
+              "key": "B",
+              "text": "That replication is a useful method"
+            },
+            {
+              "key": "C",
+              "text": "That journals prefer novel results"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "college-r1-q2",
+          "stem": "The passage states that confirming another researcher's result usually brings strong career rewards.",
+          "points": 1,
+          "explanation": "第三段明确说这类工作几乎得不到职业认可。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "college-r1-q3",
+          "stem": "What is the purpose of pre-registration?",
+          "points": 1,
+          "explanation": "第四段说明预注册限制了让弱结果显得强的灵活性。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "To guarantee positive results"
+            },
+            {
+              "key": "B",
+              "text": "To limit analytic flexibility after data collection"
+            },
+            {
+              "key": "C",
+              "text": "To speed up peer review"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "college-r1-q4",
+          "stem": "The writer argues that exploratory research should be abandoned.",
+          "points": 1,
+          "explanation": "最后一段明确说探索性研究有其价值，关键在于诚实标注。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "college-r1-q5",
+          "stem": "Which best summarises the writer's overall stance?",
+          "points": 1,
+          "explanation": "第三段将问题归因于激励结构，全文并未指控个人不诚实。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Research is fundamentally untrustworthy"
+            },
+            {
+              "key": "B",
+              "text": "Structural incentives, not individual dishonesty, drive the problem"
+            },
+            {
+              "key": "C",
+              "text": "Replication projects are a waste of resources"
+            }
+          ],
+          "answer": "B"
+        }
+      ],
+      "glossary": [
+        {
+          "term": "replication",
+          "meaningCn": "重复验证"
+        },
+        {
+          "term": "false positive",
+          "meaningCn": "假阳性"
+        },
+        {
+          "term": "underpowered",
+          "meaningCn": "统计效力不足的"
+        },
+        {
+          "term": "pre-registration",
+          "meaningCn": "预注册"
+        }
+      ]
+    },
+    {
+      "id": "college-r2",
+      "title": "The Economics of Free Software",
+      "wordCount": 138,
+      "estMinutes": 2,
+      "paragraphs": [
+        "Software given away without charge should, by simple reasoning, attract no investment. In practice, some of the most heavily used code in the world is free, maintained by companies that compete fiercely elsewhere.",
+        "One explanation is complementarity. A firm selling servers benefits when the operating system running on them is free, reliable and widely understood. The free component increases demand for the paid one.",
+        "A second explanation concerns cost sharing. When five companies each need the same underlying library, maintaining five private versions is wasteful. A shared public version reduces duplicated effort even if it also helps competitors.",
+        "The model has a well-documented weakness. Widely used components are sometimes maintained by one or two unpaid volunteers, and the burden becomes visible only when a serious flaw appears. Recent funding initiatives attempt to address this, though coverage remains uneven."
+      ],
+      "questions": [
+        {
+          "id": "college-r2-q1",
+          "stem": "What does 'complementarity' mean in this context?",
+          "points": 1,
+          "explanation": "第二段解释免费组件提升了付费产品的需求。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Free software raises demand for related paid products"
+            },
+            {
+              "key": "B",
+              "text": "Companies praise each other publicly"
+            },
+            {
+              "key": "C",
+              "text": "Volunteers complete each other's work"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "college-r2-q2",
+          "stem": "The passage argues that sharing a library helps competitors and is therefore avoided.",
+          "points": 1,
+          "explanation": "第三段承认会帮到竞争者，但仍指出共享减少了重复劳动。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "college-r2-q3",
+          "stem": "When does the maintenance problem usually become visible?",
+          "points": 1,
+          "explanation": "第四段说明只有出现严重漏洞时负担才被看见。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "During annual audits"
+            },
+            {
+              "key": "B",
+              "text": "When a serious flaw appears"
+            },
+            {
+              "key": "C",
+              "text": "When volunteers request payment"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "college-r2-q4",
+          "stem": "According to the passage, recent funding initiatives have solved the problem completely.",
+          "points": 1,
+          "explanation": "最后一句指出覆盖仍不均衡。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        }
+      ]
+    },
+    {
+      "id": "college-r3",
+      "title": "Reading a Landscape as a Document",
+      "wordCount": 150,
+      "estMinutes": 2,
+      "paragraphs": [
+        "Field boundaries, road curves and the position of old trees record decisions taken centuries ago. A landscape historian reads these features much as a textual scholar reads a manuscript, looking for layers written at different times.",
+        "Consider a road that bends sharply for no visible reason. The bend may follow the edge of a field that disappeared two hundred years ago, or avoid a marsh that has since been drained. The obstacle is gone; the response to it remains.",
+        "This method has limits. Physical evidence rarely dates itself precisely, and similar patterns can arise from unrelated causes. Careful practitioners therefore combine field observation with maps, tax records and, where available, aerial photography.",
+        "The wider value of the approach is not antiquarian. Understanding why a settlement grew where it did often explains present-day problems, such as why a particular junction floods or why one district has almost no public open space."
+      ],
+      "questions": [
+        {
+          "id": "college-r3-q1",
+          "stem": "What comparison does the writer make in the first paragraph?",
+          "points": 1,
+          "explanation": "第一段把景观史学者比作解读手稿的文本学者。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Landscapes are compared to manuscripts with several layers"
+            },
+            {
+              "key": "B",
+              "text": "Historians are compared to farmers"
+            },
+            {
+              "key": "C",
+              "text": "Roads are compared to rivers"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "college-r3-q2",
+          "stem": "The passage says that a road bend always indicates a drained marsh.",
+          "points": 1,
+          "explanation": "第二段给出两种可能，并非唯一解释。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "college-r3-q3",
+          "stem": "Why do practitioners combine methods?",
+          "points": 1,
+          "explanation": "第三段指出物证难以精确断代且相似形态可能成因不同。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Because field observation is illegal alone"
+            },
+            {
+              "key": "B",
+              "text": "Because physical evidence is hard to date and can be ambiguous"
+            },
+            {
+              "key": "C",
+              "text": "Because maps are always more accurate"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "college-r3-q4",
+          "stem": "The writer believes the approach has practical present-day value.",
+          "points": 1,
+          "explanation": "最后一段说明它能解释当下的积水与公共空间等问题。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    },
+    {
+      "id": "college-r4",
+      "title": "Attention as a Scarce Resource",
+      "wordCount": 155,
+      "estMinutes": 2,
+      "paragraphs": [
+        "Information is abundant; attention is not. This asymmetry, first described in the 1970s, has become the organising principle of much of the digital economy. Services that appear free are financed by the sale of the audience's time.",
+        "The design consequences are systematic rather than accidental. Infinite scrolling removes natural stopping points, variable rewards encourage repeated checking, and notifications convert idle moments into engagement. None of these features is inherently malicious, and each solves a genuine usability problem.",
+        "Individual remedies, such as deleting applications or setting timers, have modest and short-lived effects in most studies. This is unsurprising: an individual acting alone is competing against systems refined through continuous experimentation on millions of users.",
+        "Structural proposals include default settings that favour the user, restrictions on design patterns aimed at children, and transparency about experiments. Each raises difficult questions about who defines the user's interest, and about the risk of entrenching large firms that can afford compliance."
+      ],
+      "questions": [
+        {
+          "id": "college-r4-q1",
+          "stem": "What is the central asymmetry described?",
+          "points": 1,
+          "explanation": "第一句即点明信息充裕而注意力稀缺。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Information is scarce while attention is abundant"
+            },
+            {
+              "key": "B",
+              "text": "Information is abundant while attention is scarce"
+            },
+            {
+              "key": "C",
+              "text": "Both information and attention are scarce"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "college-r4-q2",
+          "stem": "The writer claims the design features discussed are deliberately malicious.",
+          "points": 1,
+          "explanation": "第二段明确说这些特性并非天生恶意，且各自解决了真实的可用性问题。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "false"
+        },
+        {
+          "id": "college-r4-q3",
+          "stem": "Why are individual remedies described as limited?",
+          "points": 1,
+          "explanation": "第三段解释个体在与持续实验优化的系统对抗。",
+          "moduleRef": "reading",
+          "type": "single",
+          "options": [
+            {
+              "key": "A",
+              "text": "Users lack self-control"
+            },
+            {
+              "key": "B",
+              "text": "Individuals compete against systems optimised on millions of users"
+            },
+            {
+              "key": "C",
+              "text": "Timers are technically unreliable"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "college-r4-q4",
+          "stem": "The passage notes that regulation could unintentionally favour large firms.",
+          "points": 1,
+          "explanation": "最后一段提到合规成本可能强化大公司地位。",
+          "moduleRef": "reading",
+          "type": "boolean",
+          "answer": "true"
+        }
+      ]
+    }
+  ]
+}

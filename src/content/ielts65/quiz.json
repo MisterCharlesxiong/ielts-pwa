@@ -1,0 +1,1633 @@
+{
+  "schemaVersion": 1,
+  "level": "ielts65",
+  "module": "quiz",
+  "title": "雅思 6.0-6.5 · 随堂测试 4 套",
+  "generatedAt": "2026-07-31T00:00:00.000Z",
+  "items": [
+    {
+      "id": "ielts65-q1",
+      "title": "雅思 6.0-6.5 · 综合小测 A",
+      "durationSec": 600,
+      "sections": [
+        {
+          "id": "ielts65-q1-s1",
+          "title": "词汇",
+          "moduleRef": "words",
+          "questions": [
+            {
+              "id": "ielts65-q1-s1-q1",
+              "type": "single",
+              "stem": "单词 “alleviate” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "削减"
+                },
+                {
+                  "key": "B",
+                  "text": "限制"
+                },
+                {
+                  "key": "C",
+                  "text": "强制要求"
+                },
+                {
+                  "key": "D",
+                  "text": "减轻，缓解"
+                }
+              ],
+              "answer": "D",
+              "explanation": "alleviate /əˈliːvieɪt/ v. 减轻，缓解\n例：Subsidies can alleviate rural poverty.\n补贴能够缓解农村贫困。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q1-s1-q2",
+              "type": "single",
+              "stem": "单词 “authenticity” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "真实性"
+                },
+                {
+                  "key": "B",
+                  "text": "判断，衡量"
+                },
+                {
+                  "key": "C",
+                  "text": "努力"
+                },
+                {
+                  "key": "D",
+                  "text": "故意的；深思熟虑的"
+                }
+              ],
+              "answer": "A",
+              "explanation": "authenticity /ˌɔːθenˈtɪsəti/ n. 真实性\n例：Readers question the authenticity of the report.\n读者质疑该报告的真实性。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q1-s1-q3",
+              "type": "single",
+              "stem": "单词 “compliance” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "合规，遵守"
+                },
+                {
+                  "key": "B",
+                  "text": "令人信服的"
+                },
+                {
+                  "key": "C",
+                  "text": "可行的"
+                },
+                {
+                  "key": "D",
+                  "text": "故意的；深思熟虑的"
+                }
+              ],
+              "answer": "A",
+              "explanation": "compliance /kəmˈplaɪəns/ n. 合规，遵守\n例：Compliance with safety rules is mandatory.\n遵守安全规定是强制性的。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q1-s1-q4",
+              "type": "single",
+              "stem": "单词 “converge” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "有助于…的"
+                },
+                {
+                  "key": "B",
+                  "text": "汇聚"
+                },
+                {
+                  "key": "C",
+                  "text": "主要的"
+                },
+                {
+                  "key": "D",
+                  "text": "限制"
+                }
+              ],
+              "answer": "B",
+              "explanation": "converge /kənˈvɜːdʒ/ v. 汇聚\n例：The two theories converge on one point.\n两种理论在一点上趋于一致。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q1-s1-q5",
+              "type": "single",
+              "stem": "单词 “detrimental” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "貌似合理的"
+                },
+                {
+                  "key": "B",
+                  "text": "有害的"
+                },
+                {
+                  "key": "C",
+                  "text": "适得其反的"
+                },
+                {
+                  "key": "D",
+                  "text": "同时地"
+                }
+              ],
+              "answer": "B",
+              "explanation": "detrimental /ˌdetrɪˈmentl/ adj. 有害的\n例：Excessive screen time is detrimental to sleep.\n过度使用屏幕有害睡眠。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q1-s1-q6",
+              "type": "single",
+              "stem": "单词 “emulate” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "效仿"
+                },
+                {
+                  "key": "B",
+                  "text": "支撑，加强"
+                },
+                {
+                  "key": "C",
+                  "text": "限制"
+                },
+                {
+                  "key": "D",
+                  "text": "削减"
+                }
+              ],
+              "answer": "A",
+              "explanation": "emulate /ˈemjuleɪt/ v. 效仿\n例：Other cities hope to emulate the model.\n其他城市希望效仿这一模式。",
+              "points": 1,
+              "moduleRef": "words"
+            }
+          ]
+        },
+        {
+          "id": "ielts65-q1-s2",
+          "title": "语法",
+          "moduleRef": "grammar",
+          "questions": [
+            {
+              "id": "ielts65-q1-s2-q1",
+              "stem": "This is the framework ______ the analysis is based.",
+              "points": 1,
+              "explanation": "be based on → on which。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "on which"
+                },
+                {
+                  "key": "B",
+                  "text": "which"
+                },
+                {
+                  "key": "C",
+                  "text": "in that"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts65-q1-s2-q2",
+              "stem": "She described the manner ______ the interviews were conducted.",
+              "points": 1,
+              "explanation": "in the manner → in which。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "which"
+                },
+                {
+                  "key": "B",
+                  "text": "in which"
+                },
+                {
+                  "key": "C",
+                  "text": "of which"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q1-s2-q3",
+              "stem": "判断：“the reason of which” 是描述原因时的标准搭配。",
+              "points": 1,
+              "explanation": "应为 the reason for which 或直接用 why。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts65-q1-s2-q4",
+              "stem": "______ the evidence is limited, the argument is persuasive.",
+              "points": 1,
+              "explanation": "后接完整从句，只能用 Although。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Despite"
+                },
+                {
+                  "key": "B",
+                  "text": "Although"
+                },
+                {
+                  "key": "C",
+                  "text": "In spite of"
+                }
+              ],
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "ielts65-q1-s3",
+          "title": "阅读",
+          "moduleRef": "reading",
+          "questions": [
+            {
+              "id": "ielts65-q1-s3-q1",
+              "stem": "（选自《Rewilding: Ambition and Its Limits》）What is the central claim of rewilding in its strongest form?",
+              "points": 1,
+              "explanation": "第一段定义了自然过程主导与大型动物重引入。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ecosystems recover best under detailed human management"
+                },
+                {
+                  "key": "B",
+                  "text": "Natural processes should determine outcomes, including through reintroduced animals"
+                },
+                {
+                  "key": "C",
+                  "text": "All farmland should be converted to forest"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q1-s3-q2",
+              "stem": "（选自《Rewilding: Ambition and Its Limits》）The Dutch reserve example shows that a uniform reed bed supported more bird species.",
+              "points": 1,
+              "explanation": "第二段说明镶嵌式草地与灌丛支持的鸟类比原先的芦苇地更多。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts65-q1-s3-q3",
+              "stem": "（选自《Rewilding: Ambition and Its Limits》）What is described as the conceptual objection?",
+              "points": 1,
+              "explanation": "第三段第二项反对意见即基准状态难以界定。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Landscapes are fragmented by roads"
+                },
+                {
+                  "key": "B",
+                  "text": "There is no obvious historical baseline to restore"
+                },
+                {
+                  "key": "C",
+                  "text": "Beaver dams increase flooding"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q1-s3-q4",
+              "stem": "（选自《Rewilding: Ambition and Its Limits》）According to the passage, managers face criticism whether or not they intervene in severe winters.",
+              "points": 1,
+              "explanation": "第四段说明干预与不干预都会受到指责。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts65-q2",
+      "title": "雅思 6.0-6.5 · 综合小测 B",
+      "durationSec": 600,
+      "sections": [
+        {
+          "id": "ielts65-q2-s1",
+          "title": "词汇",
+          "moduleRef": "words",
+          "questions": [
+            {
+              "id": "ielts65-q2-s1-q1",
+              "type": "single",
+              "stem": "单词 “disseminate” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "传播"
+                },
+                {
+                  "key": "B",
+                  "text": "先于"
+                },
+                {
+                  "key": "C",
+                  "text": "最优的"
+                },
+                {
+                  "key": "D",
+                  "text": "不可或缺的"
+                }
+              ],
+              "answer": "A",
+              "explanation": "disseminate /dɪˈsemɪneɪt/ v. 传播\n例：Universities disseminate research findings freely.\n大学免费传播研究成果。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q2-s1-q2",
+              "type": "single",
+              "stem": "单词 “equitable” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "持续的，坚持的"
+                },
+                {
+                  "key": "B",
+                  "text": "归因于"
+                },
+                {
+                  "key": "C",
+                  "text": "公平的"
+                },
+                {
+                  "key": "D",
+                  "text": "广泛的"
+                }
+              ],
+              "answer": "C",
+              "explanation": "equitable /ˈekwɪtəbl/ adj. 公平的\n例：We need an equitable distribution of funds.\n我们需要公平的资金分配。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q2-s1-q3",
+              "type": "single",
+              "stem": "单词 “foster” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "最优的"
+                },
+                {
+                  "key": "B",
+                  "text": "培养，促进"
+                },
+                {
+                  "key": "C",
+                  "text": "影响，含义"
+                },
+                {
+                  "key": "D",
+                  "text": "先于"
+                }
+              ],
+              "answer": "B",
+              "explanation": "foster /ˈfɒstə/ v. 培养，促进\n例：Group tasks foster cooperation.\n小组任务促进合作。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q2-s1-q4",
+              "type": "single",
+              "stem": "单词 “impetus” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "推动力"
+                },
+                {
+                  "key": "B",
+                  "text": "倾向"
+                },
+                {
+                  "key": "C",
+                  "text": "传播"
+                },
+                {
+                  "key": "D",
+                  "text": "危及"
+                }
+              ],
+              "answer": "A",
+              "explanation": "impetus /ˈɪmpɪtəs/ n. 推动力\n例：The award gave fresh impetus to the team.\n这个奖项给团队带来新动力。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q2-s1-q5",
+              "type": "single",
+              "stem": "单词 “integral” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "查明"
+                },
+                {
+                  "key": "B",
+                  "text": "不可或缺的"
+                },
+                {
+                  "key": "C",
+                  "text": "令人信服的"
+                },
+                {
+                  "key": "D",
+                  "text": "以…告终"
+                }
+              ],
+              "answer": "B",
+              "explanation": "integral /ˈɪntɪɡrəl/ adj. 不可或缺的\n例：Feedback is integral to progress.\n反馈是进步不可或缺的部分。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q2-s1-q6",
+              "type": "single",
+              "stem": "单词 “mandate” (n./v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "强制要求"
+                },
+                {
+                  "key": "B",
+                  "text": "现象"
+                },
+                {
+                  "key": "C",
+                  "text": "紧要的"
+                },
+                {
+                  "key": "D",
+                  "text": "隐含意义"
+                }
+              ],
+              "answer": "A",
+              "explanation": "mandate /ˈmændeɪt/ n./v. 强制要求\n例：The law mandates seat belts.\n法律强制要求系安全带。",
+              "points": 1,
+              "moduleRef": "words"
+            }
+          ]
+        },
+        {
+          "id": "ielts65-q2-s2",
+          "title": "语法",
+          "moduleRef": "grammar",
+          "questions": [
+            {
+              "id": "ielts65-q2-s2-q1",
+              "stem": "It was ______ a convincing study that policy changed within a year.",
+              "points": 1,
+              "explanation": "such + a/an + 形容词 + 名词 + that。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "so"
+                },
+                {
+                  "key": "B",
+                  "text": "such"
+                },
+                {
+                  "key": "C",
+                  "text": "very"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q2-s2-q2",
+              "stem": "判断：so…that 与 such…that 中的 that 引导的是结果状语从句。",
+              "points": 1,
+              "explanation": "两者均为结果状语从句的标志结构。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "true"
+            },
+            {
+              "id": "ielts65-q2-s2-q3",
+              "stem": "下列哪一句名词化过度、可读性最差？",
+              "points": 1,
+              "explanation": "B 层层名词化，主语冗长，动词被弱化为 took place。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The council improved the service."
+                },
+                {
+                  "key": "B",
+                  "text": "An improvement in the provision of the service by the council took place."
+                },
+                {
+                  "key": "C",
+                  "text": "The council made improvements to the service."
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q2-s2-q4",
+              "stem": "上文刚讨论过 the proposal，下句衔接最好的写法是：",
+              "points": 1,
+              "explanation": "已知信息 the proposal 置于主语位置，衔接最自然。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The committee rejected the proposal."
+                },
+                {
+                  "key": "B",
+                  "text": "The proposal was rejected by the committee."
+                },
+                {
+                  "key": "C",
+                  "text": "There was a rejection of the proposal."
+                }
+              ],
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "ielts65-q2-s3",
+          "title": "阅读",
+          "moduleRef": "reading",
+          "questions": [
+            {
+              "id": "ielts65-q2-s3-q1",
+              "stem": "（选自《Measuring What Schools Actually Add》）What is the main weakness of raw examination league tables?",
+              "points": 1,
+              "explanation": "第一段指出原始成绩排名反映的是生源。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are published too late"
+                },
+                {
+                  "key": "B",
+                  "text": "They largely reflect which pupils a school admits"
+                },
+                {
+                  "key": "C",
+                  "text": "They ignore examination results entirely"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q2-s3-q2",
+              "stem": "（选自《Measuring What Schools Actually Add》）The passage says two reasonable value-added models always produce the same ranking.",
+              "points": 1,
+              "explanation": "第二段说明两个合理模型可能给出显著不同的排名。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts65-q2-s3-q3",
+              "stem": "（选自《Measuring What Schools Actually Add》）What behavioural response is described?",
+              "points": 1,
+              "explanation": "第三段明确说明资源集中在分数线附近的学生。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Schools focus on pupils close to a grade boundary"
+                },
+                {
+                  "key": "B",
+                  "text": "Schools reduce examination entries to zero"
+                },
+                {
+                  "key": "C",
+                  "text": "Schools publish their own tables"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts65-q2-s3-q4",
+              "stem": "（选自《Measuring What Schools Actually Add》）The writer concludes that measurement should be abandoned.",
+              "points": 1,
+              "explanation": "最后一段明确反对放弃测量，主张少量指标并标注不确定性。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts65-q3",
+      "title": "雅思 6.0-6.5 · 词汇语法专项",
+      "durationSec": 480,
+      "sections": [
+        {
+          "id": "ielts65-q3-s1",
+          "title": "词汇",
+          "moduleRef": "words",
+          "questions": [
+            {
+              "id": "ielts65-q3-s1-q1",
+              "type": "single",
+              "stem": "单词 “implication” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "效仿"
+                },
+                {
+                  "key": "B",
+                  "text": "例证"
+                },
+                {
+                  "key": "C",
+                  "text": "抵消"
+                },
+                {
+                  "key": "D",
+                  "text": "影响，含义"
+                }
+              ],
+              "answer": "D",
+              "explanation": "implication /ˌɪmplɪˈkeɪʃn/ n. 影响，含义\n例：Consider the implications for teaching.\n考虑一下对教学的影响。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q3-s1-q2",
+              "type": "single",
+              "stem": "单词 “intricate” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "可行的"
+                },
+                {
+                  "key": "B",
+                  "text": "公平的"
+                },
+                {
+                  "key": "C",
+                  "text": "错综复杂的"
+                },
+                {
+                  "key": "D",
+                  "text": "紧要的"
+                }
+              ],
+              "answer": "C",
+              "explanation": "intricate /ˈɪntrɪkət/ adj. 错综复杂的\n例：The system has an intricate structure.\n这个系统结构错综复杂。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q3-s1-q3",
+              "type": "single",
+              "stem": "单词 “mediate” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "决定性的"
+                },
+                {
+                  "key": "B",
+                  "text": "调解"
+                },
+                {
+                  "key": "C",
+                  "text": "阐明；照亮"
+                },
+                {
+                  "key": "D",
+                  "text": "强化"
+                }
+              ],
+              "answer": "B",
+              "explanation": "mediate /ˈmiːdieɪt/ v. 调解\n例：A third party mediated the dispute.\n第三方调解了这场争端。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q3-s1-q4",
+              "type": "single",
+              "stem": "单词 “obsolete” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "范式"
+                },
+                {
+                  "key": "B",
+                  "text": "过时的"
+                },
+                {
+                  "key": "C",
+                  "text": "以…告终"
+                },
+                {
+                  "key": "D",
+                  "text": "加剧"
+                }
+              ],
+              "answer": "B",
+              "explanation": "obsolete /ˈɒbsəliːt/ adj. 过时的\n例：The software became obsolete in two years.\n这款软件两年就过时了。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q3-s1-q5",
+              "type": "single",
+              "stem": "单词 “persistent” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "持续的，坚持的"
+                },
+                {
+                  "key": "B",
+                  "text": "分歧的"
+                },
+                {
+                  "key": "C",
+                  "text": "重于，胜过"
+                },
+                {
+                  "key": "D",
+                  "text": "受益者"
+                }
+              ],
+              "answer": "A",
+              "explanation": "persistent /pəˈsɪstənt/ adj. 持续的，坚持的\n例：Persistent effort produces results.\n持续的努力产生结果。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q3-s1-q6",
+              "type": "single",
+              "stem": "单词 “proficiency” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "熟练程度"
+                },
+                {
+                  "key": "B",
+                  "text": "公平的"
+                },
+                {
+                  "key": "C",
+                  "text": "故意的；深思熟虑的"
+                },
+                {
+                  "key": "D",
+                  "text": "倾向"
+                }
+              ],
+              "answer": "A",
+              "explanation": "proficiency /prəˈfɪʃnsi/ n. 熟练程度\n例：Language proficiency opens doors.\n语言熟练程度打开机会之门。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q3-s1-q7",
+              "type": "single",
+              "stem": "单词 “substantial” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "独特的"
+                },
+                {
+                  "key": "B",
+                  "text": "有助于…的"
+                },
+                {
+                  "key": "C",
+                  "text": "大量的"
+                },
+                {
+                  "key": "D",
+                  "text": "以…告终"
+                }
+              ],
+              "answer": "C",
+              "explanation": "substantial /səbˈstænʃl/ adj. 大量的\n例：A substantial minority disagreed.\n相当一部分人不同意。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q3-s1-q8",
+              "type": "single",
+              "stem": "单词 “amplify” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "视情况而定的"
+                },
+                {
+                  "key": "B",
+                  "text": "开始"
+                },
+                {
+                  "key": "C",
+                  "text": "放大，加强"
+                },
+                {
+                  "key": "D",
+                  "text": "加剧"
+                }
+              ],
+              "answer": "C",
+              "explanation": "amplify /ˈæmplɪfaɪ/ v. 放大，加强\n例：Social media amplifies extreme opinions.\n社交媒体放大了极端观点。",
+              "points": 1,
+              "moduleRef": "words"
+            }
+          ]
+        },
+        {
+          "id": "ielts65-q3-s2",
+          "title": "语法",
+          "moduleRef": "grammar",
+          "questions": [
+            {
+              "id": "ielts65-q3-s2-q1",
+              "stem": "判断：全篇使用被动语态可以提升语法多样性得分。",
+              "points": 1,
+              "explanation": "单一句式会降低 Grammatical Range 分数，应主被动交替。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts65-q3-s2-q2",
+              "stem": "If the city had built the line in 2010, traffic ______ far lighter today.",
+              "points": 1,
+              "explanation": "混合条件：过去条件 + 现在结果，主句用 would + 动词原形。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "would be"
+                },
+                {
+                  "key": "B",
+                  "text": "would have been"
+                },
+                {
+                  "key": "C",
+                  "text": "will be"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts65-q3-s2-q3",
+              "stem": "If sea levels ______ rising, coastal cities will face serious risks.",
+              "points": 1,
+              "explanation": "真实条件句，从句用一般现在时。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "keep"
+                },
+                {
+                  "key": "B",
+                  "text": "kept"
+                },
+                {
+                  "key": "C",
+                  "text": "had kept"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts65-q3-s2-q4",
+              "stem": "判断：Were it not for the subsidy, the service would close. 是正确的倒装虚拟句。",
+              "points": 1,
+              "explanation": "if 省略后 were 提前，构成正式倒装虚拟条件句。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "true"
+            },
+            {
+              "id": "ielts65-q3-s2-q5",
+              "stem": "下列哪句中的 that 引导同位语从句？",
+              "points": 1,
+              "explanation": "B 中 that 从句解释 claim 的内容，不作成分。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The report that arrived yesterday is detailed."
+                },
+                {
+                  "key": "B",
+                  "text": "The claim that the method is flawed needs testing."
+                },
+                {
+                  "key": "C",
+                  "text": "The book that she wrote sold well."
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q3-s2-q6",
+              "stem": "The possibility ______ the trend reverses cannot be ruled out.",
+              "points": 1,
+              "explanation": "同位语从句用 that 引导。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "which"
+                },
+                {
+                  "key": "B",
+                  "text": "that"
+                },
+                {
+                  "key": "C",
+                  "text": "what"
+                }
+              ],
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "ielts65-q3-s3",
+          "title": "阅读",
+          "moduleRef": "reading",
+          "questions": [
+            {
+              "id": "ielts65-q3-s3-q1",
+              "stem": "（选自《Antibiotic Resistance and Collective Action》）Why does the writer call resistance a problem of incentives?",
+              "points": 1,
+              "explanation": "第一段解释个体处方理性而成本外部化到未来患者。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Because doctors lack training"
+                },
+                {
+                  "key": "B",
+                  "text": "Because the cost of each prescription falls on future patients"
+                },
+                {
+                  "key": "C",
+                  "text": "Because patients refuse treatment"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q3-s3-q2",
+              "stem": "（选自《Antibiotic Resistance and Collective Action》）The passage says new antibiotics are most valuable when they are used as often as possible.",
+              "points": 1,
+              "explanation": "第二段指出新抗生素用得越少价值越高。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts65-q3-s3-q3",
+              "stem": "（选自《Antibiotic Resistance and Collective Action》）What is the key feature of subscription payment models?",
+              "points": 1,
+              "explanation": "第三段说明按固定年费购买可及性，与用量脱钩。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Payment is separated from the number of doses sold"
+                },
+                {
+                  "key": "B",
+                  "text": "Payment depends on patient recovery rates"
+                },
+                {
+                  "key": "C",
+                  "text": "Payment is made only after ten years"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts65-q3-s3-q4",
+              "stem": "（选自《Antibiotic Resistance and Collective Action》）The writer suggests that reducing agricultural antibiotic use is mainly a political challenge.",
+              "points": 1,
+              "explanation": "最后一句指出障碍是政治性的而非技术性的。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ielts65-q4",
+      "title": "雅思 6.0-6.5 · 全真模拟",
+      "durationSec": 900,
+      "sections": [
+        {
+          "id": "ielts65-q4-s1",
+          "title": "词汇",
+          "moduleRef": "words",
+          "questions": [
+            {
+              "id": "ielts65-q4-s1-q1",
+              "type": "single",
+              "stem": "单词 “cognitive” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "认知的"
+                },
+                {
+                  "key": "B",
+                  "text": "归因于"
+                },
+                {
+                  "key": "C",
+                  "text": "支撑，加强"
+                },
+                {
+                  "key": "D",
+                  "text": "放大，加强"
+                }
+              ],
+              "answer": "A",
+              "explanation": "cognitive /ˈkɒɡnətɪv/ adj. 认知的\n例：Sleep loss impairs cognitive performance.\n睡眠不足损害认知表现。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q4-s1-q2",
+              "type": "single",
+              "stem": "单词 “consolidate” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "认知的"
+                },
+                {
+                  "key": "B",
+                  "text": "巩固；合并"
+                },
+                {
+                  "key": "C",
+                  "text": "归因于"
+                },
+                {
+                  "key": "D",
+                  "text": "切题的"
+                }
+              ],
+              "answer": "B",
+              "explanation": "consolidate /kənˈsɒlɪdeɪt/ v. 巩固；合并\n例：Review consolidates what you have learnt.\n复习巩固你已学的内容。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q4-s1-q3",
+              "type": "single",
+              "stem": "单词 “deficiency” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "受益者"
+                },
+                {
+                  "key": "B",
+                  "text": "缺乏"
+                },
+                {
+                  "key": "C",
+                  "text": "限制"
+                },
+                {
+                  "key": "D",
+                  "text": "可行的"
+                }
+              ],
+              "answer": "B",
+              "explanation": "deficiency /dɪˈfɪʃnsi/ n. 缺乏\n例：Vitamin deficiency causes tiredness.\n维生素缺乏导致疲劳。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q4-s1-q4",
+              "type": "single",
+              "stem": "单词 “distinctive” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "紧要的"
+                },
+                {
+                  "key": "B",
+                  "text": "首要的"
+                },
+                {
+                  "key": "C",
+                  "text": "独特的"
+                },
+                {
+                  "key": "D",
+                  "text": "限制"
+                }
+              ],
+              "answer": "C",
+              "explanation": "distinctive /dɪˈstɪŋktɪv/ adj. 独特的\n例：The building has a distinctive roof.\n这座建筑有独特的屋顶。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q4-s1-q5",
+              "type": "single",
+              "stem": "单词 “eradicate” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "例证"
+                },
+                {
+                  "key": "B",
+                  "text": "根除"
+                },
+                {
+                  "key": "C",
+                  "text": "引出，激起"
+                },
+                {
+                  "key": "D",
+                  "text": "强化"
+                }
+              ],
+              "answer": "B",
+              "explanation": "eradicate /ɪˈrædɪkeɪt/ v. 根除\n例：Vaccines helped eradicate the disease.\n疫苗帮助根除了这种疾病。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q4-s1-q6",
+              "type": "single",
+              "stem": "单词 “gauge” (v.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "判断，衡量"
+                },
+                {
+                  "key": "B",
+                  "text": "推动力"
+                },
+                {
+                  "key": "C",
+                  "text": "主要的"
+                },
+                {
+                  "key": "D",
+                  "text": "放大，加强"
+                }
+              ],
+              "answer": "A",
+              "explanation": "gauge /ɡeɪdʒ/ v. 判断，衡量\n例：Surveys gauge public opinion.\n调查衡量公众意见。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q4-s1-q7",
+              "type": "single",
+              "stem": "单词 “implication” (n.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "故意的；深思熟虑的"
+                },
+                {
+                  "key": "B",
+                  "text": "分歧的"
+                },
+                {
+                  "key": "C",
+                  "text": "首要的"
+                },
+                {
+                  "key": "D",
+                  "text": "影响，含义"
+                }
+              ],
+              "answer": "D",
+              "explanation": "implication /ˌɪmplɪˈkeɪʃn/ n. 影响，含义\n例：Consider the implications for teaching.\n考虑一下对教学的影响。",
+              "points": 1,
+              "moduleRef": "words"
+            },
+            {
+              "id": "ielts65-q4-s1-q8",
+              "type": "single",
+              "stem": "单词 “intricate” (adj.) 的正确中文释义是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "错综复杂的"
+                },
+                {
+                  "key": "B",
+                  "text": "受益者"
+                },
+                {
+                  "key": "C",
+                  "text": "开始"
+                },
+                {
+                  "key": "D",
+                  "text": "广泛的"
+                }
+              ],
+              "answer": "A",
+              "explanation": "intricate /ˈɪntrɪkət/ adj. 错综复杂的\n例：The system has an intricate structure.\n这个系统结构错综复杂。",
+              "points": 1,
+              "moduleRef": "words"
+            }
+          ]
+        },
+        {
+          "id": "ielts65-q4-s2",
+          "title": "语法",
+          "moduleRef": "grammar",
+          "questions": [
+            {
+              "id": "ielts65-q4-s2-q1",
+              "stem": "______ as it seems, the method works reliably.",
+              "points": 1,
+              "explanation": "倒装让步结构：形容词 + as + 主语 + 系动词。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Simple"
+                },
+                {
+                  "key": "B",
+                  "text": "Simply"
+                },
+                {
+                  "key": "C",
+                  "text": "A simple"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts65-q4-s2-q2",
+              "stem": "判断：“Despite of the rain, the event went ahead.” 语法正确。",
+              "points": 1,
+              "explanation": "despite 后不加 of，应为 Despite the rain 或 In spite of the rain。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts65-q4-s2-q3",
+              "stem": "______ avoid misunderstanding, define your terms early.",
+              "points": 1,
+              "explanation": "so as to 不能置于句首，故选 In order to。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "So as to"
+                },
+                {
+                  "key": "B",
+                  "text": "In order to"
+                },
+                {
+                  "key": "C",
+                  "text": "For to"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q4-s2-q4",
+              "stem": "把 “They decided quickly.” 名词化后最自然的一项是：",
+              "points": 1,
+              "explanation": "decide → decision，副词 quickly → 形容词 quick。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their quick decision"
+                },
+                {
+                  "key": "B",
+                  "text": "Their decide quickly"
+                },
+                {
+                  "key": "C",
+                  "text": "The deciding of them"
+                }
+              ],
+              "answer": "A"
+            },
+            {
+              "id": "ielts65-q4-s2-q5",
+              "stem": "判断：名词化越多，雅思写作词汇分越高。",
+              "points": 1,
+              "explanation": "评分关注准确与自然，过度名词化反而损害连贯与可读性。",
+              "moduleRef": "grammar",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts65-q4-s2-q6",
+              "stem": "学术写作中使用被动的主要理由是：",
+              "points": 1,
+              "explanation": "被动的核心功能是信息结构调整。",
+              "moduleRef": "grammar",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "显得更长"
+                },
+                {
+                  "key": "B",
+                  "text": "调整信息重心并弱化施动者"
+                },
+                {
+                  "key": "C",
+                  "text": "避免使用动词"
+                }
+              ],
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "id": "ielts65-q4-s3",
+          "title": "阅读",
+          "moduleRef": "reading",
+          "questions": [
+            {
+              "id": "ielts65-q4-s3-q1",
+              "stem": "（选自《Why Forecasts Fail Gracefully》）Where does the writer locate the main value of a forecast?",
+              "points": 1,
+              "explanation": "第一段明确指出价值在于区间与显性假设。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "In its central figure"
+                },
+                {
+                  "key": "B",
+                  "text": "In its range and explicit assumptions"
+                },
+                {
+                  "key": "C",
+                  "text": "In the reputation of the forecaster"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q4-s3-q2",
+              "stem": "（选自《Why Forecasts Fail Gracefully》）According to the passage, demographers usually claim to know exact future figures.",
+              "points": 1,
+              "explanation": "第二段说明人口学家发布的是基于假设的情景。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "false"
+            },
+            {
+              "id": "ielts65-q4-s3-q3",
+              "stem": "（选自《Why Forecasts Fail Gracefully》）Who does the writer hold responsible for turning ranges into headline numbers?",
+              "points": 1,
+              "explanation": "第三段同时指出媒体激励与预测者的责任。",
+              "moduleRef": "reading",
+              "type": "single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Only journalists"
+                },
+                {
+                  "key": "B",
+                  "text": "Both media incentives and forecasters seeking attention"
+                },
+                {
+                  "key": "C",
+                  "text": "Only government agencies"
+                }
+              ],
+              "answer": "B"
+            },
+            {
+              "id": "ielts65-q4-s3-q4",
+              "stem": "（选自《Why Forecasts Fail Gracefully》）The writer recommends stating in advance what would count as evidence against a model.",
+              "points": 1,
+              "explanation": "最后一段提出这是最有用的自律做法。",
+              "moduleRef": "reading",
+              "type": "boolean",
+              "answer": "true"
+            },
+            {
+              "id": "ielts65-q4-s3-long",
+              "type": "boolean",
+              "stem": "在一次以「Rewilding: Ambition and Its Limits」为主题的班级研讨课上，老师要求同学们先在 8 分钟内通读全文，逐段标注出作者的核心论点、两条支持性证据以及至少一处作者本人的态度用词；随后与同桌交换笔记，互相解释自己为什么这样划分段落层次；最后请结合你在文中读到的信息，而不是结合你自己的生活经验或常识，判断下面这句话是否与原文表达的意思一致：「Rewilding: Ambition and Its Limits 一文的作者认为，读者只要记住结论就足够了，理解论证过程并不重要。」",
+              "answer": "false",
+              "explanation": "原文强调的是「理解论证过程」，仅记住结论无法迁移到新的语境中，因此该说法与原文相悖。此题同时用于验证超长题干在 375px 宽度下的换行表现。",
+              "points": 2,
+              "moduleRef": "reading"
+            }
+          ]
+        },
+        {
+          "id": "ielts65-q4-s4",
+          "title": "写作",
+          "moduleRef": "writing",
+          "questions": [
+            {
+              "id": "ielts65-q4-s4-q1",
+              "type": "single",
+              "stem": "写作题「Some people believe that…」的建议结构中，第 2 步应当是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paraphrase the debate and preview the line of argument"
+                },
+                {
+                  "key": "B",
+                  "text": "Conclusion: restate the balanced position without new information"
+                },
+                {
+                  "key": "C",
+                  "text": "Body 2: the opportunity-cost case for spending on essential services"
+                },
+                {
+                  "key": "D",
+                  "text": "Body 1: the cultural and economic case for public art, with a concrete mechanism"
+                }
+              ],
+              "answer": "D",
+              "explanation": "完整建议结构：1. Paraphrase the debate and preview the line of argument；2. Body 1: the cultural and economic case for public art, with a concrete mechanism；3. Body 2: the opportunity-cost case for spending on essential services；4. Evaluate which argument is stronger and under what conditions；5. Conclusion: restate the balanced position without new information",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts65-q4-s4-q2",
+              "type": "boolean",
+              "stem": "判断：本题要求的必备连接词中包含 “Advocates argue that”。",
+              "answer": "true",
+              "explanation": "本题必备连接词：Advocates argue that / Critics counter that / Crucially / On balance。批改时缺少任一项都会扣「连接词」维度分。",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts65-q4-s4-q3",
+              "type": "single",
+              "stem": "写作题「Many employees now work …」的建议结构中，第 3 步应当是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Disadvantage paragraph: focus on collaboration and career development"
+                },
+                {
+                  "key": "B",
+                  "text": "Advantage paragraph: focus on one benefit for employees and one for employers"
+                },
+                {
+                  "key": "C",
+                  "text": "Conclusion: restate the judgement with the qualifying condition"
+                },
+                {
+                  "key": "D",
+                  "text": "Paraphrase the trend and declare the overall judgement"
+                }
+              ],
+              "answer": "A",
+              "explanation": "完整建议结构：1. Paraphrase the trend and declare the overall judgement；2. Advantage paragraph: focus on one benefit for employees and one for employers；3. Disadvantage paragraph: focus on collaboration and career development；4. Weigh the two sides and identify the decisive factor；5. Conclusion: restate the judgement with the qualifying condition",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts65-q4-s4-q4",
+              "type": "boolean",
+              "stem": "判断：本题要求的必备连接词中包含 “A clear benefit is that”。",
+              "answer": "true",
+              "explanation": "本题必备连接词：A clear benefit is that / Conversely / Nevertheless / Ultimately。批改时缺少任一项都会扣「连接词」维度分。",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts65-q4-s4-q5",
+              "type": "single",
+              "stem": "写作题「The table below shows ho…」的建议结构中，第 4 步应当是？",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Give an overview naming the fastest riser and the only decline"
+                },
+                {
+                  "key": "B",
+                  "text": "Finish with the gap between the highest and lowest final figures"
+                },
+                {
+                  "key": "C",
+                  "text": "Describe City X in detail with figures and rate of change"
+                },
+                {
+                  "key": "D",
+                  "text": "Contrast City Y and City Z within one paragraph"
+                }
+              ],
+              "answer": "D",
+              "explanation": "完整建议结构：1. Paraphrase the table description in your own words；2. Give an overview naming the fastest riser and the only decline；3. Describe City X in detail with figures and rate of change；4. Contrast City Y and City Z within one paragraph；5. Finish with the gap between the highest and lowest final figures",
+              "points": 1,
+              "moduleRef": "writing"
+            },
+            {
+              "id": "ielts65-q4-s4-q6",
+              "type": "boolean",
+              "stem": "判断：本题要求的必备连接词中包含 “Overall”。",
+              "answer": "true",
+              "explanation": "本题必备连接词：Overall / By comparison / whereas / By the end of the period。批改时缺少任一项都会扣「连接词」维度分。",
+              "points": 1,
+              "moduleRef": "writing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
